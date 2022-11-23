@@ -1,0 +1,2774 @@
+,Words,Frequency
+0,['Kiosk'],2
+1,['Anita'],21
+2,['Sommer'],29
+3,"['Tür', 'Tür', 'Alice']",16
+4,"['Mond', 'blühen', 'Rose']",18
+5,"['Mußt', 'jetzt', 'grade', 'gehen', 'Lucille']",29
+6,"['dabei', 'lieben', 'beide']",28
+7,"['Lied', 'Schlümpfe']",48
+8,"['Blue', 'Bayou']",26
+9,"['Buenos', 'dias', 'Argentina']",18
+10,"['fragen', 'Schlumpf']",26
+11,"['geh', 'doch']",21
+12,"['Kreuzberger', 'Nacht']",24
+13,"['manchmal', 'Weinst', 'sicher', 'paar', 'Träne']",32
+14,"['Ruf', 'Teddybär', 'eins', 'vier']",25
+15,[],811
+16,"['We', 'Don', 'Talk', 'Anymore']",25
+17,"['Lied', 'Manuel']",24
+18,"['frei', 'willst']",17
+19,"['Abschied', 'bißchen', 'sterben']",14
+20,"['wild', 'wild', 'Westen']",18
+21,['Nippel'],23
+22,['geben'],22
+23,"['Santa', 'Maria']",28
+24,"['sieben', 'Brücke', 'mußt', 'gehn']",25
+25,"['La', 'Provence', 'blühend', 'Land']",23
+26,['Loreley'],17
+27,"['Flieg', 'hoch', 'klein', 'Freund']",19
+28,"['ja', 'Englein']",29
+29,"['entschuldigen', 'kenn', 'di']",19
+30,['Kommissar'],26
+31,"['lieb', 'Gott']",29
+32,"['Polonäse', 'Blankenese']",19
+33,"['Skandal', 'Sperrbezirk']",32
+34,['Albany'],16
+35,"['bißchen', 'Frieden']",23
+36,['Schickeria'],25
+37,"['leiben', 'liebst', 'aha', 'aha', 'aha']",25
+38,['Rosemarie'],21
+39,['Sommersprossen'],18
+40,['Carbonara'],22
+41,"['wissen', 'Bescheid', 'weißen', 'Bescheid']",12
+42,"['Adios', 'Amor']",36
+43,"['di', 'mog']",23
+44,"['nur', 'träumen']",36
+45,"['Arrivederci', 'Claire']",20
+46,['schaun'],17
+47,"['Major', 'Tom', 'völlig', 'losgelösen']",19
+48,"['', 'Luftballon']",25
+49,"['Hallo', 'Klaus', 'wü', 'nur', 'zruck']",22
+50,['Rücksicht'],9
+51,"['Sennerin', 'Königsee']",17
+52,['Bruttosozialprodukt'],18
+53,['lieben'],112
+54,"['Codo', 'Düse', 'Sauseschritt']",16
+55,"['Wüste', 'leben', 'Alarmsignal']",14
+56,"['Alpen', 'Rap']",7
+57,"['san', 'bayrisch', 'Band']",15
+58,"['je', 'suis', 'tu', 'deutsch', 'Version']",7
+59,"['Herz', 'Trumpf', 'rufst']",17
+60,['Fragezeichen'],17
+61,"['Turaluraluralu', 'machen', 'BuBu', 'machen']",10
+62,['Eden'],21
+63,['Marie'],6
+64,"['Hello', 'Again']",16
+65,['Feuer'],31
+66,"['Pfüati', 'Gott', 'Elisabeth']",7
+67,['Rette'],19
+68,"['wollen', 'wissen', 'heißen']",9
+69,"['Abschied', 'scharf', 'Schwert']",16
+70,"['Engel', '']",11
+71,"['irgendwie', 'irgendwo', 'irgendwann']",33
+72,['Fürstenfeld'],9
+73,"['Feel', 'For', 'You']",11
+74,"['nackt', 'Wind']",7
+75,['Sehnsucht'],55
+76,"['weiß', 'Blatt', 'Papier']",6
+77,"['Feuer', 'Flamm']",11
+78,['Samurai'],24
+79,"['Vienna', 'Calling']",14
+80,"['Jeanny', 'Part']",18
+81,['Nordseeküste'],27
+82,"['schlaf', 'heuen', 'Nacht']",16
+83,"['Jeannie', 'rein', 'Wahrheit']",8
+84,['Geil'],35
+85,['tausendmal'],12
+86,"['Coming', 'Home', 'Jeanny', 'Part', '', 'Jahr', 'danach']",13
+87,"['Stern', 'Athen', '', '', '', '', 'Monat']",16
+88,"['Küss', 'Hand', 'schön', 'Frau']",17
+89,"['lang', 'Traum', 'noch', 'leben', 'können']",15
+90,['Copacabana'],28
+91,"['Macho', 'Macho']",26
+92,"['können', 'Schwachsinn', 'Sünde']",10
+93,"['Tango', 'Korrupti']",11
+94,['Enzian'],12
+95,"['Pump', 'Bier']",12
+96,"['Ding', 'Dong']",17
+97,"['hier', 'kommen', 'Kurt']",16
+98,"['Verdammt', 'leiben']",40
+99,"['erster', 'Mal', 'tat', 'noch', 'weh']",24
+100,['träumen'],24
+101,['Beinhart'],20
+102,['freuen'],15
+103,"['Liebe', 'erster', 'Blick']",13
+104,['jambo'],8
+105,['Millionär'],18
+106,"['Sascha', 'aufrecht', 'deutsche']",21
+107,['Saft'],11
+108,['Küssen'],7
+109,['wünsch'],11
+110,"['Geil', 'Welt']",10
+111,"['zwei', 'allein']",8
+112,"['nur', 'klauen']",22
+113,['Liebe'],126
+114,['Mädchen'],35
+115,"['Hey', 'Süsser']",11
+116,"['Berg', 'rufen']",21
+117,"['Be', 'My', 'Lover']",23
+118,"['mussen', 'Schwein']",18
+119,['Computerlieb'],20
+120,"['Mief', 'Nimm', 'jetzt', 'stinken']",17
+121,"['klein', 'Maus']",14
+122,"['Song', 'namens', 'Schund']",18
+123,['weg'],19
+124,"['Insel', 'zwei', 'Berg']",28
+125,['Hurra'],12
+126,"['bleiben', 'Ewigkeit']",9
+127,"['find', 'scheiß']",18
+128,['populär'],5
+129,"['siehst', 'Sonne']",7
+130,"['Herz', 'Herz']",15
+131,"['hier', 'kommen', 'Maus']",14
+132,['Funky'],13
+133,"['Kleiner', 'Satellit', 'Piep', 'Piep']",13
+134,['Jein'],27
+135,['Frühlingsgefühle'],7
+136,"['Mutter', 'Mann', 'Koks']",16
+137,"['', 'Tage', 'Bart']",7
+138,"['Sexy', 'Eis']",13
+139,['Boomerang'],16
+140,['Freedom'],5
+141,"['zehn', 'klein', 'Jägermeister']",20
+142,[''],228
+143,['Verpiss'],22
+144,"['Gott', 'Kind']",5
+145,"['Gibt', 'doch', 'gar']",15
+146,"['Oh', 'Shit', 'Frau', 'Schmidt']",14
+147,['liebst'],22
+148,['Engel'],46
+149,['glaubst'],8
+150,"['Mr', 'Wichtig']",14
+151,['Anna'],16
+152,"['gib', 'noch']",12
+153,['fehlst'],17
+154,"['klein', 'Schwester']",15
+155,"['nur', 'noch', '', 'Tag', 'leben']",8
+156,['nur'],47
+157,['Rückenwind'],12
+158,"['Out', 'Of', 'The', 'Dark']",23
+159,"['bleiben', 'anders']",11
+160,"['Willst', 'geh']",2
+161,"['Schwein', 'namens', 'Mann']",23
+162,['solo'],14
+163,"['Guildo', 'leiben']",14
+164,"['blau', 'Auge']",9
+165,['Flut'],29
+166,"['wieder', 'hier']",24
+167,"['Wish', 'Komm']",17
+168,['Egoist'],18
+169,"['Halt', 'Liebe', 'fest']",8
+170,"['Flugzeug', 'Bauch']",26
+171,['vorbei'],31
+172,"['Führ', 'Licht']",11
+173,['Wish'],12
+174,['Vater'],38
+175,['jetzt'],52
+176,['Regenbög'],12
+177,"['wollen', 'Leben']",6
+178,['Glockenspiel'],8
+179,"['Liebes', 'Lied']",14
+180,"['nie', 'wieder']",14
+181,"['lang', 'Single', 'Welt', 'Teil', '']",20
+182,"['MfG', 'freundlich', 'Grüße']",14
+183,['sehen'],20
+184,"['wollen', 'raus', 'Sehnsucht', '']",12
+185,"['Halt', 'Maul']",15
+186,['Esperanto'],1
+187,"['Heut', 'Tag']",4
+188,['Richtige'],6
+189,"['trägstn', 'Liebe']",17
+190,['leb'],6
+191,['gehst'],41
+192,['leise'],14
+193,"['Gimm', 'All', 'Your', 'Lovin', '']",4
+194,['Schön'],8
+195,"['immer', 'wieder']",25
+196,"['Millennium', 'Countdown', 'laufen']",13
+197,"['Dragan', 'Alder', 'Weihnachtsmedley']",6
+198,['Ruhe'],9
+199,['Weinst'],10
+200,"['Adler', 'sollen', 'fliegen']",6
+201,"['niemals', 'mehr']",5
+202,['Stern'],29
+203,"['Dunkler', 'Ort']",8
+204,['Unsterblich'],5
+205,"['Sex', 'Control']",3
+206,['Liebesbrief'],10
+207,"['Tabula', 'Rasa', 'Pt', 'II']",7
+208,"['We', 'Are', 'Strong']",1
+209,"['Anton', 'Tirol']",30
+210,['schlaflos'],7
+211,"['Nomine', 'wissen', 'tun']",3
+212,['Bayern'],12
+213,['Leb'],11
+214,"['Take', 'My', 'Heart']",18
+215,"['vermiss', 'Hölle']",13
+216,['draussen'],9
+217,"['Wadde', 'hadde', 'dudde']",7
+218,"['Partyalarm', 'geht']",5
+219,"['wollen', 'nur']",11
+220,"['Gemma', 'Bier', 'trinken']",11
+221,"['Bon', 'voyagen']",13
+222,"['Liebe', 'echt']",4
+223,"['groß', 'Bruder']",14
+224,['Junimond'],11
+225,['Strasse'],11
+226,"['leben', 'Hip', 'Hop']",9
+227,"['nur', 'Nacht']",13
+228,"['viel', 'schön']",12
+229,"['Türlich', 'türlich', 'sicher', 'Dicker']",13
+230,['gehen'],18
+231,['Herzbeben'],18
+232,"['Isch', 'lieben', 'disch']",13
+233,['Sandstorm'],15
+234,"['Pokémon', 'Welt']",1
+235,"['Geh', 'davon']",15
+236,['Bild'],12
+237,"['wollen', 'liebst']",11
+238,"['Zeig', 'Gesicht']",8
+239,"['geil', 'Arschloch']",13
+240,"['manchmal', 'Frau']",13
+241,['geh'],28
+242,['Sonne'],27
+243,"['gib', 'Musik']",1
+244,"['nur', 'Wahrheit', 'zählen']",3
+245,"['Lieb', 'icken']",10
+246,"['', '', '']",17
+247,['Dickes'],11
+248,['Jeanny'],6
+249,"['Adriano', 'letzter', 'Warnung']",11
+250,['Glaub'],17
+251,"['sieben', 'Brücke', 'mussen', 'gehen']",1
+252,"['Schwule', 'Mädchen']",12
+253,['weck'],12
+254,"['Girl', 'You', 'Know', 'It', 'sn', 'True']",8
+255,['Mitternacht'],16
+256,['kiffen'],12
+257,['zählen'],6
+258,"['heute', 'passieren']",5
+259,"['willst', 'hin']",14
+260,"['Amnestie', 'MTV']",9
+261,"['Tier', 'Wolfen']",4
+262,"['Missing', 'You']",8
+263,"['Herz', 'Glas']",30
+264,['Cruis'],15
+265,['Mensch'],21
+266,['Limit'],7
+267,"['Frau', 'Welt']",3
+268,['Weg'],88
+269,"['Steuersong', 'Las', 'Kanzler']",16
+270,"['geben', 'Hanf', 'frei']",6
+271,"['Abschied', 'nehmen']",12
+272,"['Leuchtturm', '']",15
+273,"['Sneak', 'Preview']",9
+274,"['Wunder', 'geschehen']",7
+275,"['kennen', 'schön']",32
+276,['Fäule'],7
+277,"['König', 'Deutschland']",8
+278,['denk'],15
+279,['Süden'],23
+280,"['Going', 'Under']",6
+281,['unrockbar'],7
+282,['Erinnerung'],33
+283,"['jung', 'brauchen', 'Geld']",12
+284,['Seemann'],7
+285,['Guilty'],6
+286,['dankbar'],3
+287,"['Schick', 'Engel']",10
+288,"['Gustav', 'Gan']",6
+289,['Ding'],28
+290,['allein'],71
+291,"['Herz', 'brechen']",15
+292,['Auge'],22
+293,"['Friss', 'stirb']",6
+294,"['Star', 'Holen', 'hier', 'raus']",7
+295,"['letzter', 'Stern']",9
+296,"['gut', 'Tag', 'zählen']",2
+297,['Welt'],31
+298,"['Brennend', 'Liebe']",8
+299,['vielleicht'],22
+300,"['Breaking', 'The', 'Habit']",6
+301,"['bleibst', 'immer', 'noch']",6
+302,"['onkelz', 'vs', 'Jesus']",8
+303,['Troy'],17
+304,['Teil'],19
+305,['zurück'],8
+306,['Schuld'],11
+307,"['Tag', 'Stunde']",6
+308,['Symphonie'],22
+309,"['Sag', 'meinst']",9
+310,['Sommerrege'],1
+311,"['Perfekt', 'Welle']",32
+312,['mögen'],19
+313,['Walkampf'],5
+314,"['klügsen', 'Mann', 'Welt']",2
+315,['Lied'],75
+316,"['schwarz', 'Weiss']",28
+317,"['Schnappi', 'klein', 'Krokodil']",23
+318,['Spiel'],20
+319,['Emanuela'],20
+320,['weit'],3
+321,['Lust'],3
+322,"['Gekommen', 'bleiben']",9
+323,['dusch'],5
+324,['Geboren'],1
+325,"['Schrei', 'Liebe']",33
+326,"['Mach', 'Auge']",14
+327,"['Mann', 'Mond']",11
+328,['vermissen'],15
+329,"['welch', 'Tag']",15
+330,"['kosten', 'Welt']",6
+331,"['nur', 'Besuch']",15
+332,"['hier', 'kommen', 'Alex']",16
+333,['Eisbär'],24
+334,"['Robby', 'Roboter']",7
+335,"['', 'Jahr']",23
+336,"['lang', 'Single', 'Welt']",79
+337,['Modell'],11
+338,"['Leb', 'Traum']",4
+339,"['Freund', 'Mann']",20
+340,['Erdbeermund'],22
+341,"['Never', 'Gonna', 'Say', 'Sorry']",1
+342,"['', 'klein', 'Negerlein']",11
+343,['Roboter'],20
+344,['Leuchtturm'],13
+345,"['wünschen', 'wären']",26
+346,"['Slipping', 'Into', 'You']",11
+347,['Idiot'],3
+348,"['wollen', 'Spaß']",22
+349,['Sternenhimmel'],21
+350,"['einmal', 'nur', 'Erika', 'Welt', 'entfliehn']",10
+351,"['Goldener', 'Reiter']",26
+352,"['', '', 'Nacht', 'Zoom']",18
+353,"['Faust', 'Faust', 'Schimanski']",15
+354,"['Sonderzug', 'Pankow']",17
+355,"['Kosmetik', 'Glück', 'Erde']",11
+356,"['Tri', 'tra', 'Trullala', 'Herbergsvater']",4
+357,['Blech'],17
+358,"['Déjà', 'vu']",6
+359,"['klein', 'Taschenlampe', 'brenn']",18
+360,"['Jahr', 'gehen', 'voran']",12
+361,"['Oh', 'Baby']",7
+362,"['Servus', 'mach', 'guat']",9
+363,['Zauberstab'],19
+364,['Knutschfleck'],14
+365,"['hoch', 'Berg']",14
+366,"['Tretboot', 'Seenot']",9
+367,"['besuchen', 'Europa', 'noch', 'stehen']",11
+368,"['Computerlieb', 'Module', 'spielen', 'verrückt']",12
+369,['Feuerwerk'],15
+370,"['Haus', 'drei', 'Sonne']",5
+371,"['weiß', 'Strand', 'Helgoland']",8
+372,"['Bill', 'Haley']",7
+373,"['wär', 'gern', 'blöd']",8
+374,"['Bitte', 'küss']",2
+375,['Deutschland'],39
+376,"['Küsse', 'verbieten']",19
+377,"['ganz', 'Herz']",14
+378,['Wagen'],33
+379,['Alkohol'],8
+380,"['Kind', 'Macht']",8
+381,['eisbaer'],7
+382,['abgehau'],2
+383,['Herzensschöner'],4
+384,['Traumreis'],4
+385,['atemlos'],11
+386,"['sterben', 'nochmal']",17
+387,['Flieger'],10
+388,"['Supa', 'Richie']",30
+389,"['Hexen', 'Rap']",5
+390,['Energie'],10
+391,['Zurück'],21
+392,"['ach', 'Nase']",13
+393,"['Blechbüchse', 'roll']",13
+394,"['schwarz', 'Zone']",5
+395,"['neu', 'Mann', 'brauchen', 'Land']",15
+396,"['Schach', 'matt']",9
+397,"['El', 'Lute']",16
+398,"['Lass', 'Sonne', 'Herz']",7
+399,"['Glocke', 'Rom']",11
+400,"['Laura', 'Jane']",17
+401,['irgendwann'],11
+402,"['Patrona', 'Bavariae']",26
+403,['Manuel'],19
+404,"['bissch', 'Haushalt', 'sagen', 'Mann']",31
+405,"['gehen', 'mehr']",22
+406,"['Steh', 'Boden']",6
+407,"['sitzen', 'selber', 'Boot']",2
+408,['Pistolero'],12
+409,['Klabautermann'],3
+410,"['Dudelmoser', 'Alm', 'gibt', 'koa', 'Sünd']",1
+411,"['Ba', 'Ba', 'Banküberfall']",11
+412,['Märchenprinz'],10
+413,"['heiß', 'Nacht', 'Palermo']",10
+414,"['Fata', 'Morgana']",7
+415,['Burli'],4
+416,['Katzeklo'],15
+417,['Küss'],5
+418,"['Liebe', 'leben']",15
+419,['Mondsong'],2
+420,"['Wunder', 'gescheh']",11
+421,"['ja', 'klar']",12
+422,"['Bonnie', 'Clyde']",18
+423,['Paradies'],15
+424,['satt'],1
+425,"['verliebt', 'Jung']",13
+426,"['em', 'Lot']",5
+427,"['Verdamp', 'lang', 'her']",19
+428,"['leiben', 'egal', 'klingen']",15
+429,"['Reif', 'Insel']",5
+430,['mehr'],8
+431,['Tanz'],13
+432,['heiß'],3
+433,"['Zuhause', 'Azzurro']",5
+434,['Willst'],30
+435,"['verlieben', 'Lehrer']",10
+436,['Würfelspiel'],6
+437,"['drei', 'Jahr', 'lang']",10
+438,"['Geh', 'Stadt', 'heuen', 'Nacht']",5
+439,"['Nacht', 'voll', 'Schatten']",11
+440,"['Sehnsucht', 'unheilbar']",8
+441,"['stark', 'Gefühl']",5
+442,"['Stimme', 'Wind']",14
+443,"['vielleicht', 'irgendwann']",8
+444,"['Nimm', 'nächster', 'Zug']",16
+445,"['Alkohol', 'Lösung']",1
+446,['Westerland'],7
+447,['Weihnachtsbaum'],2
+448,"['Sesam', 'Jam']",12
+449,"['Vogel', 'Nacht']",5
+450,['lauf'],6
+451,"['Weihnachtsmann', 'Dach']",3
+452,"['Chartbreaker', 'Einmal', 'Star', 'zurück']",5
+453,"['Sonne', 'Nacht']",4
+454,['Model'],17
+455,"['ganz', 'egal']",5
+456,"['Nordisch', 'By', 'Nature']",17
+457,"['Samstag', 'Nacht']",16
+458,['Theater'],10
+459,"['soll', 'rot', 'Rose', 'regnen']",17
+460,['Polizist'],17
+461,['Abenteuerland'],1
+462,['Gefühl'],10
+463,"['Kribbel', 'Bauch']",18
+464,['Aurélie'],1
+465,"['süß', 'Traube', 'hängen', 'hoch']",14
+466,['Pan'],13
+467,"['gerade', 'noch', 'fehlen']",7
+468,"['FKK', 'Everybody', 'Free', 'To', 'Wear', 'gar']",7
+469,['gut'],26
+470,['Gnubbel'],9
+471,"['JR', 'Bruder']",4
+472,"['Bodo', 'Bagger']",6
+473,"['Paß', 'gut', 'Kind']",5
+474,['Feierabend'],16
+475,"['Schwarzes', 'Gold']",19
+476,"['Denk', 'doch', 'mal']",5
+477,"['Papa', 'schon', 'richten']",14
+478,"['Good', 'Bye', 'My', 'Love', 'Verzeih', 'My']",1
+479,['bitte'],2
+480,['passieren'],5
+481,"['manchmal', 'Tag', 'ganz', 'Leben']",1
+482,"['Bau', 'Schloß']",9
+483,"['klein', 'See']",10
+484,['Lena'],1
+485,"['Hör', 'gut']",12
+486,['Indianer'],1
+487,['Partyhitmix'],11
+488,"['immer', 'noch']",3
+489,['Walzer'],1
+490,"['Baby', 'Frisör']",1
+491,['Mutter'],12
+492,['Alive'],14
+493,"['können', 'Anfang']",9
+494,['sag'],8
+495,"['Don', 'Wanna', 'Get', 'Hurt']",10
+496,"['Roboter', '']",8
+497,"['Fall', 'With', 'Me']",2
+498,"['Liebst', 'liebst']",6
+499,['Traum'],43
+500,['ändern'],2
+501,"['', 'Mal']",4
+502,['Spieler'],10
+503,"['Kuddel', 'Daddel']",1
+504,"['Aloha', 'heja', 'He']",23
+505,"['Fischer', 'San', 'Juan']",20
+506,['sonst'],10
+507,"['blau', 'Planet']",27
+508,"['Fang', 'Licht']",13
+509,"['Frankreich', 'Frankreich']",12
+510,['Katrin'],9
+511,['Wahnsinn'],4
+512,"['Tanzt', 'Brot']",3
+513,"['Hungrig', 'Herz']",10
+514,['Denkmal'],18
+515,['tun'],5
+516,"['Take', 'It', 'Easy', 'alt', 'Haus']",12
+517,"['CB', 'Funker']",12
+518,"['immer', 'Josy', 'seh']",17
+519,"['Legende', 'Babylon']",21
+520,"['ziehn', 'heuen', 'abend', 'Dach']",16
+521,"['Bora', 'Bora']",26
+522,"['wieder', 'frei']",19
+523,"['frei', 'abgebrannen']",12
+524,"['denk', 'noch', 'oft', 'Marianne']",2
+525,"['nachts', 'Schläft']",23
+526,"['Träne', 'mehr']",11
+527,"['wär', 'gern']",13
+528,['Herbert'],20
+529,"['Mama', 'Lorraine']",33
+530,"['gib', 'bitte', 'Kuß']",7
+531,"['Laß', 'Knie', 'Joe']",12
+532,"['Babi', '', 'ka']",16
+533,['Monotonie'],11
+534,"['zärtlich', 'Mann']",12
+535,"['wünsch', 'Hölle', 'Erde', 'heuen', 'gehst']",21
+536,"['Teufel', 'jung', 'Mann']",16
+537,"['Midnight', 'Lady', 'einsam']",7
+538,"['Heirat', 'doch', 'Büro']",7
+539,"['weißen', 'hingehst']",3
+540,"['Leb', 'wohl']",12
+541,"['ganz', 'gar']",6
+542,"['Volldampf', 'Radio']",4
+543,"['möchen', 'gern', 'Dave', 'Dudley', 'hör']",16
+544,['brauchst'],12
+545,['Uschi'],7
+546,"['Himmel', 'brennen']",13
+547,"['Fred', 'Jupiter']",16
+548,"['Wissenswertes', 'Erlangen']",2
+549,"['Karl', 'Käfer']",9
+550,"['Anna', 'Lassmichrein', 'lassmichraus']",19
+551,['taxi'],16
+552,"['Lied', 'La', 'Le', 'Lu']",18
+553,"['doch', 'leiben']",14
+554,"['Märchen', 'Rhodos']",11
+555,"['Lang', 'scho', 'Nimmer', 'sehn']",8
+556,"['Hes', 'kommen']",10
+557,['Joana'],10
+558,['Monopoli'],3
+559,"['Tuut', 'Tuut']",12
+560,"['irgendwo', 'geben']",4
+561,"['Bye', 'Bye', 'My']",14
+562,"['gut', 'Morgen', 'lieb', 'Sorge']",19
+563,['Freisein'],11
+564,['herzilein'],41
+565,"['alt', 'Lied']",2
+566,['Fort'],3
+567,"['Sex', 'Macht']",1
+568,"['niemals', 'gehen', 'ganz']",8
+569,"['ganz', 'Leben', 'Quiz']",19
+570,['Hurz'],14
+571,"['Ende', 'Welt']",9
+572,"['Ladies', 'Gentlemen']",5
+573,"['Lebt', 'alt', 'Holzmichl', 'noch']",54
+574,"['weiß', 'Taube', 'müde']",20
+575,"['alt', 'Mann', 'Meer']",2
+576,"['Till', 'Joe']",1
+577,['Hamster'],26
+578,"['Goethe', 'gut']",19
+579,"['Herz', 'Kind']",19
+580,['schaffst'],16
+581,"['Freu', 'bloß', 'früh']",18
+582,"['nie', 'mehr', 'allein']",22
+583,"['Tanze', 'Samba']",21
+584,"['Liebe', 'vieler', 'Träne', 'wert']",9
+585,"['Lieb', 'letzter', 'Mal']",30
+586,"['Samstag', 'abend']",27
+587,"['je', 'Liebe', 'verli']",18
+588,"['Gaby', 'warten', 'Park']",6
+589,['Geh'],12
+590,"['noch', 'geben']",19
+591,['Eloisa'],18
+592,"['Shine', 'On', 'Regen', 'New', 'York']",8
+593,['Leben'],52
+594,"['wär', 'liabsten', 'ganz', 'alloa']",3
+595,['Ibiza'],4
+596,"['Mädchen', 'Mädchen']",7
+597,"['Herz', 'Herz', 'Gefühl']",6
+598,"['Laß', 'allein']",6
+599,['Mexico'],13
+600,"['rot', 'Sonne', 'Barbados']",8
+601,['Horizont'],13
+602,"['Maria', 'Maria']",12
+603,"['Überdosis', 'Glück']",4
+604,"['blond', 'Hans']",15
+605,['wiederseh'],13
+606,"['geben', 'nächster', 'Mal']",11
+607,"['St', 'Tropez']",4
+608,"['leiben', 'überhaupt', 'mehr']",10
+609,"['Schatten', 'Wand']",8
+610,['Kuh'],7
+611,['Marlene'],4
+612,"['Mark', 'Charly']",15
+613,"['Träne', 'passen']",2
+614,['Kompliment'],37
+615,"['Good', 'Morning', 'Judge']",12
+616,['Mann'],13
+617,['Verdient'],3
+618,"['Maschine', 'brennen']",14
+619,"['pur', 'Lust', 'Leben']",4
+620,['Eiszeit'],23
+621,['wollen'],38
+622,['Manta'],13
+623,"['', '', 'Meile']",7
+624,"['bitte', 'bitte']",11
+625,"['Höha', 'Schnella', 'Weita']",8
+626,['Picknicker'],4
+627,"['manchmal', 'möchten', 'schon']",21
+628,['Titanic'],2
+629,['Stunde'],21
+630,"['Far', 'Away', 'America']",1
+631,['Sternraketen'],4
+632,"['tun', 'immer', 'noch', 'weh']",6
+633,"['Strada', 'del', 'Sole']",9
+634,['Tropfen'],1
+635,"['Schlumpfen', 'Cowboy', 'Joe']",14
+636,"['wollen', 'mehr']",1
+637,"['Grund', 'Panik']",1
+638,"['Himbeereis', 'Frühstück']",19
+639,"['Military', 'Drum']",5
+640,"['Hartreim', 'Saga']",1
+641,['Hammerhart'],3
+642,"['genug', 'genug']",4
+643,['Liebesschmerz'],7
+644,['Rosanna'],1
+645,['Sexy'],8
+646,"['gehen', 'gut']",10
+647,['Terpentin'],9
+648,"['Japanese', 'Boy']",10
+649,"['tanzen', 'Lambada']",1
+650,"['Tina', 'weg']",2
+651,['Rose'],8
+652,['Lampenfieber'],6
+653,"['Lied', 'Stümper']",4
+654,['willkommen'],10
+655,"['wollen', 'verlieben']",5
+656,"['kommn', 'weiter']",5
+657,"['Brücke', 'geh']",4
+658,"['Lied', 'Freund']",3
+659,"['Make', 'All', 'Bounce']",12
+660,"['immer', 'noch', 'verrückt']",7
+661,"['Siehst', 'genauso']",3
+662,['Roque'],6
+663,"['', 'Wahl']",1
+664,"['stehen', 'gut']",4
+665,"['schön', 'sowieso']",1
+666,"['Ruf', 'erst', 'ruinieren']",6
+667,['zusammenleben'],12
+668,['Krieg'],37
+669,['Verfall'],3
+670,"['weiß', 'Strand', 'San', 'Angelo']",5
+671,"['mal', 'wieder', 'richtig', 'Sommer']",7
+672,"['können', 'Frömmste', 'Frieden', 'leben']",1
+673,"['ja', 'ja', 'Katja', 'ja']",2
+674,['Eiermann'],11
+675,"['Maat', 'et', 'Joot']",2
+676,['Wat'],6
+677,"['Tarzan', 'wieder']",18
+678,"['Resi', 'hol', 'Di', 'mei', 'Traktor']",4
+679,"['blond', 'Hans', 'Bundesbahn']",4
+680,"['Amore', 'mio']",27
+681,"['zeigen', 'Paradies']",23
+682,"['Gianna', 'Liebe', 'Auto']",19
+683,['brauchen'],24
+684,['Marlee'],21
+685,"['Liebe', 'setzen']",7
+686,"['Peter', 'Pan']",1
+687,"['Gefühl', 'frei']",5
+688,['Felicita'],10
+689,"['gehen', 'voll']",4
+690,['Nessaja'],14
+691,"['Germany', 'Calling']",18
+692,['immer'],19
+693,"['lang', 'Reise', 'Nacht']",8
+694,"['Mama', 'Leone', 'deutsch', 'Version']",22
+695,['Block'],18
+696,['Bleib'],2
+697,"['Goldenes', 'Handwerk']",1
+698,['spät'],7
+699,"['möchen', 'Knopf', 'Bluse']",7
+700,"['Papa', 'trinken', 'Bier']",15
+701,"['sagen', 'gehst']",3
+702,"['', '', 'Lovesong']",3
+703,['Rebell'],2
+704,"['Demo', 'Letzter', 'Tag']",7
+705,"['Gott', 'tanzen']",11
+706,"['Olli', 'Kahn']",4
+707,"['Frohes', 'Fest']",6
+708,"['Liebe', 'kleben']",13
+709,['Vollmond'],15
+710,['Baby'],10
+711,"['Radio', 'brennen']",1
+712,['Halt'],4
+713,"['Lied', 'Liebe', 'schreiben']",12
+714,"['weit', 'Morgen']",4
+715,"['sieben', 'Fässer', 'Wein']",22
+716,"['Mama', 'stolz']",9
+717,"['Komm', 'zurück']",1
+718,"['Name', 'Mensch']",1
+719,"['Indian', 'Lady']",2
+720,"['nur', 'Stein', 'leben', 'lang']",1
+721,['Heimat'],4
+722,"['sagen', 'einmal']",20
+723,"['wollen', 'Morgen', 'erleben']",5
+724,"['morgen', 'früh', 'geh']",9
+725,['Lisa'],5
+726,['oben'],11
+727,"['Tante', 'Emma']",4
+728,"['Mond', 'Sonne', 'berühren']",2
+729,"['Sad', 'But', 'True']",4
+730,"['allein', 'Griechenland']",1
+731,"['Blume', 'weinen', 'können']",2
+732,['glücklich'],9
+733,['OK'],4
+734,"['können', 'eur', 'Welt']",4
+735,['Perlentaucher'],1
+736,['Nacht'],25
+737,['Luxus'],5
+738,"['Liebe', 'Live']",4
+739,"['Girl', '', 'Day']",9
+740,"['geschehen', 'nie', 'spät']",11
+741,['schläfst'],7
+742,['Friedenspanzer'],5
+743,['Quark'],3
+744,['Elke'],1
+745,"['Yoko', 'Ono']",1
+746,"['rock', 'Roll', 'Übermensch']",1
+747,"['trennen', 'Leben']",3
+748,['Vorsprechtermin'],5
+749,['Tanzpirator'],9
+750,"['Geld', 'Liebe']",1
+751,"['Airport', 'wiedersehn']",1
+752,"['Sommernacht', 'Rom']",11
+753,"['lieb', 'Mann']",18
+754,"['Herz', 'nie', 'mehr', 'vergissen']",9
+755,['Haus'],8
+756,"['nehm', 'Arm']",1
+757,"['Fremde', 'Erde']",7
+758,"['sieben', 'Tag']",3
+759,"['segnen', 'seien']",12
+760,"['Optik', 'Anthem']",1
+761,"['schon', 'Kind']",1
+762,"['Frage', 'niemals']",1
+763,"['Tanz', 'Rehakles']",3
+764,"['bayrisch', 'Cowgirl']",4
+765,"['lieben', 'Leben']",3
+766,"['Gehn', 'Ägypter']",2
+767,"['Früh', 'stück']",3
+768,"['Punker', 'Maria']",8
+769,"['when', 'You', 'Are', 'Here']",2
+770,['Weihnachtssong'],4
+771,['Unkraut'],7
+772,"['Spiel', 'Leben']",3
+773,"['What', 'You', 'Deserve', 'Is', 'What', 'You', 'Get']",1
+774,"['Mexican', 'Girl']",2
+775,['Tief'],9
+776,"['Karneval', 'Nacht']",2
+777,"['klein', 'Schwalbe', 'Heimkehr', 'nie', 'spät']",3
+778,"['liegen', 'wieder', 'arme', 'Barbara']",11
+779,['Schmerz'],5
+780,"['ganz', 'Sommer']",7
+781,['sollen'],21
+782,"['ja', 'mei', 'derf', 'doch', 'net']",5
+783,"['Ende', 'nur', 'Wurst', 'zwei', 'Krause', 'Ruth']",8
+784,"['Angst', 'Papa', 'sagen', 'Angst', 'Mama', 'sagen']",15
+785,"['Oh', 'Susi', 'zensiert', 'Song']",28
+786,"['Verliebe', 'verlieren']",7
+787,"['wollen', 'nochmal']",1
+788,"['Rut', 'sin', 'de', 'Ruse']",7
+789,"['Känguru', 'Dance']",9
+790,"['Quietsche', 'Entchen']",9
+791,"['Fuchs', 'gehen', 'Wald']",2
+792,"['Major', 'Tom', '']",10
+793,"['Fred', 'kommen', 'Bett']",1
+794,"['Bett', 'Kornfeld']",8
+795,['Traumboy'],5
+796,"['Sand', 'Auge']",18
+797,"['Ti', 'amo']",27
+798,"['gut', 'Tag', 'Leben']",2
+799,"['Rudi', 'Völler']",4
+800,"['Verliebe', 'verloren', 'vergessen', 'verzeih']",15
+801,"['Sommer', 'Stadt']",4
+802,['Jessica'],5
+803,"['Tu', 'doch']",6
+804,"['Resi', 'Bring', 'Bier']",3
+805,['Generation'],1
+806,"['', 'nackt', 'Friseuse']",7
+807,"['ganz', 'doll', 'mögen']",16
+808,['Kauf'],6
+809,"['Feuer', 'frei']",4
+810,"['immer', 'glauben']",1
+811,"['Fuffies', 'Club']",6
+812,['schade'],1
+813,['gefeuert'],11
+814,['Fieber'],8
+815,"['', 'Liebe']",8
+816,"['Anfang', 'Ende']",4
+817,['weißen'],26
+818,['Schule'],6
+819,"['Ibiza', 'Teil', '', 'brauchst']",2
+820,"['Nothing', 'Gonna', 'Change', 'My', 'Love', 'For', 'You']",4
+821,"['This', 'Boy', 'Is', 'Tocotronic']",1
+822,"['nie', 'wieder', 'hier']",2
+823,"['schön', 'Haus']",4
+824,"['Morgen', 'Freeman']",1
+825,"['viel', 'jung']",5
+826,"['entschuldigen', 'kenn']",5
+827,['Danielle'],11
+828,"['Liebe', 'bleiben']",4
+829,"['Sladdgo', 'woll']",1
+830,"['Ti', 'amo', 'Maria']",1
+831,['vorübergeh'],1
+832,['Freund'],12
+833,"['zuviel', 'verlangen']",3
+834,"['Mädchen', 'Athen']",11
+835,"['eigentlich', 'gut']",6
+836,"['Regen', 'Meer']",5
+837,['November'],1
+838,"['ne', 'Family']",1
+839,"['gut', 'Morgen', 'Sonnenschein']",2
+840,"['This', 'Is', 'How', 'We', 'Do', 'It']",4
+841,"['bringstn', 'Liebe']",4
+842,"['de', 'lustig', 'Holzhackerleit']",5
+843,"['Electro', 'Ghetto']",4
+844,['Afrika'],1
+845,"['Playa', 'Blanca']",2
+846,"['Clap', 'Clap', 'Song']",1
+847,"['Dieb', 'kommen', 'Abend']",1
+848,"['Lust', 'überleben']",3
+849,['Gewinner'],27
+850,"['Komm', 'doch', 'heute', 'Nacht']",9
+851,"['Berlin', 'Berlin', 'Mauer', 'weg']",5
+852,"['Hoffnung', 'sterben', 'zuletzt']",5
+853,"['nemm', 'met']",1
+854,['bleiben'],14
+855,"['nun', 'sag', 'schon', 'Adieu']",13
+856,['Lady'],2
+857,"['Spring', 'Schatten', 'Tommy']",6
+858,"['Holzmichel', 'Antwort']",2
+859,"['wär', 'mei', 'Leben']",8
+860,['Chaos'],9
+861,"['schwein', 'Ragga']",1
+862,"['Adios', 'Marlena']",3
+863,"['verliebt', 'Fischer']",5
+864,"['Schlaf', 'heuen', 'Nacht']",4
+865,"['kalt', 'Zimmer']",6
+866,['Gigant'],1
+867,"['doch', 'Träne', 'niemals', 'sehen']",1
+868,"['Don', 'Pedro', 'Küsschen', 'Ehre']",9
+869,"['Martin', 'ne', 'Martin', 'My']",24
+870,"['Hallo', 'Alf', 'hier', 'Rhonda']",2
+871,['schwer'],11
+872,"['Hitze', 'Nacht']",1
+873,"['Servus', 'Wadln']",1
+874,"['Marlee', '']",1
+875,"['wahr', 'Liebe']",1
+876,"['je', 'aime', 'mon', 'amour', 'vieler', 'Stunde', 'Nacht']",7
+877,"['nie', 'mehr', 'Bolero']",8
+878,"['rot', 'Rose', 'rot', 'Lippe', 'rot', 'Wein']",2
+879,"['Radetzki', 'Rap']",2
+880,"['frei', 'heißen', 'allein']",7
+881,"['Flieg', 'Stern']",1
+882,['Schweiß'],1
+883,"['Holland', 'fahr', 'WM']",1
+884,"['Viva', 'Colonia']",11
+885,"['nur', 'gelieh']",6
+886,['Fliege'],1
+887,"['Hey', 'Kleiner', 'spielen', 'wohl']",1
+888,"['Babies', 'krieg', 'immer', 'noch']",1
+889,"['jetzt', 'gehen', 'Party', 'richtig', 'los']",2
+890,"['kommen', 'Liebe']",5
+891,['Reimemonster'],7
+892,['eins'],4
+893,"['zuhause', 'warten', 'Natascha']",1
+894,"['geh', 'heute', 'Nacht']",9
+895,"['grün', 'Brille']",4
+896,"['Hurra', 'Hurra', 'Schule', 'brennen']",20
+897,"['Flieger', 'grüß', 'Sonne']",10
+898,"['phänomenal', 'egal']",1
+899,"['Yo', 'schaffen']",2
+900,"['', 'Stunde']",15
+901,"['Lama', 'Yokohama']",12
+902,"['Uhr', 'gehen', 'Kannst', 'noch', 'bleiben']",8
+903,['groß'],4
+904,"['Mauer', 'The', 'Dungeon', 'Keeper']",2
+905,"['stumm', 'Schrei']",1
+906,['Optimist'],8
+907,"['erst', 'siebzehn', 'neu', 'Stadt']",1
+908,"['Istanbul', 'weit']",3
+909,"['Splish', 'Splash', 'Badewannen', 'Party']",4
+910,['böse'],1
+911,"['nur', 'Stern']",1
+912,"['Stern', 'steh', 'gut']",8
+913,['Darling'],5
+914,"['Schottenrock', 'gar']",9
+915,['Bereit'],2
+916,"['Geil', 'Jahr']",4
+917,"['würd', 'immer', 'wieder', 'tun']",4
+918,"['Willst', 'gehn']",13
+919,"['Let', 'There', 'Be', 'Rock']",1
+920,"['Halt', 'fest']",32
+921,"['lieben', 'sehr']",2
+922,"['Love', 'Dreamer']",11
+923,['Desperado'],3
+924,['Strohblumen'],6
+925,"['tausch', 'Sommer', '', 'Tag', 'Regen']",6
+926,"['Jes', 'douce', 'et', 'innocent']",11
+927,"['Schri', 'Schra', 'Schrödi']",5
+928,['Jesus'],4
+929,"['Frau', 'lieben']",11
+930,['Typ'],13
+931,"['Million', 'Frau', 'lieben', 'doch', 'Frau', 'erkennen']",4
+932,"['', 'Gebot']",5
+933,"['irgendwann', 'irgendwo', 'irgendwie', 'seh', 'wieder']",18
+934,"['gib', 'Ziel', 'niemals']",3
+935,['Tag'],97
+936,"['Herz', 'können', 'reparieren']",14
+937,"['Ende', 'nur', 'Wurst', 'zwei']",2
+938,"['Cora', 'kommen', 'Haus']",9
+939,"['Nacht', 'Christina', 'fortlaufen']",2
+940,['Widerstand'],1
+941,"['Co', 'Co', 'ho', 'Chi', 'kaka', 'ho']",3
+942,"['hier', 'Blind']",3
+943,"['Willy', 'Klein', 'Fernsehmann']",13
+944,['Lass'],1
+945,['Eisenherz'],6
+946,"['ewig', 'Feuer']",8
+947,['Monstershit'],4
+948,"['erinnerst', 'Liebe']",20
+949,"['Dreckig', 'Tight']",1
+950,"['zwei', 'jung', 'Mensch']",2
+951,"['Tag', 'mehr', 'immer', 'Solang', 'lieben']",1
+952,['Porzellan'],2
+953,"['Lied', 'Kaninchen']",1
+954,"['Verlorenes', 'Paradies']",13
+955,"['Bye', 'Bye', 'Bel', 'Ami']",5
+956,"['Halten', 'Welt']",9
+957,"['Liebe', 'nur']",1
+958,"['Olé', 'España']",14
+959,"['Tanz', 'heuen', 'Nacht']",1
+960,['Verlier'],3
+961,"['All', '', 'One']",14
+962,"['NDW', '']",15
+963,"['Dancehall', 'Caballero']",4
+964,['Weihnachtsbäckerei'],10
+965,"['Morgen', 'danach']",1
+966,"['schwarz', 'Puppe']",1
+967,"['aufstehn', 'aufeinander', 'zugehn']",2
+968,"['nur', 'allein']",2
+969,['manchmal'],1
+970,"['Lang', 'Ewigkeit']",1
+971,"['drei', 'Haar', 'Brust']",1
+972,['können'],4
+973,"['dick', 'Mädchen', 'schön', 'Name']",1
+974,"['Flugzeug', 'Bauch', 'Live']",5
+975,"['Bataillon', 'amour']",5
+976,"['ganz', 'normal', 'Tag']",2
+977,['Schwein'],2
+978,"['', 'Tag']",8
+979,"['leben', '']",16
+980,"['Tierischer', 'Tango', 'Schatz', 'heuen', 'Schwein']",9
+981,"['Gott', 'Mann', 'tun']",1
+982,"['Engel', 'Teufel', 'Luisa']",2
+983,['weiber'],9
+984,"['Amo', 'vitam']",3
+985,"['ändern', 'daran']",14
+986,"['Wahlkampf', 'Zonenmädche']",4
+987,['Lotosblume'],7
+988,"['Jump', 'Jump', 'DJ', 'Tomekk', 'kommen']",14
+989,['gute'],38
+990,"['weiss', 'Licht']",1
+991,"['sofort', 'Ende']",7
+992,['Toccata'],12
+993,"['Zieh', 'klein', 'Maus']",1
+994,"['Balalaika', 'König', 'Jamaika']",3
+995,"['Super', 'Sommer']",2
+996,['verschwend'],1
+997,['sieben'],1
+998,['Dienen'],17
+999,"['Welt', 'stehen', 'still']",9
+1000,['Monsun'],19
+1001,"['nachts', 'hör', 'manchmal', 'weinen']",2
+1002,['Schrei'],16
+1003,"['Guck', 'My']",5
+1004,['aufstehn'],13
+1005,"['Engel', 'fliegen', 'einsam', '']",14
+1006,"['Leb', 'Tag']",3
+1007,"['Brief', 'nie', 'schreiben']",3
+1008,['zehn'],3
+1009,['Kyrila'],5
+1010,['Fruchtalarm'],5
+1011,['Umarme'],1
+1012,"['Captain', 'Starlight']",21
+1013,['Topmodel'],6
+1014,"['Heut', 'abend', 'Kopfweh']",1
+1015,['Benzin'],26
+1016,"['Steh', 'wieder']",8
+1017,"['Schutzengel', 'bleib']",8
+1018,"['letzter', 'Tag']",10
+1019,['Weltmeister'],1
+1020,"['müssen', 'kesseln']",7
+1021,"['nur', 'EP']",6
+1022,"['Sandy', 'Goodbye']",1
+1023,['Chilln'],11
+1024,"['Mama', 'Ana', 'Ahabak', '']",14
+1025,['Hass'],5
+1026,"['Nacht', 'allein']",4
+1027,"['Sehnsucht', 'brennen']",1
+1028,"['gut', 'Freund']",3
+1029,"['Mann', 'Mann']",3
+1030,"['eigen', 'Regel']",4
+1031,['rosenrot'],6
+1032,['endgegn'],11
+1033,"['Wurm', 'drin']",8
+1034,"['hier', 'Kneipe', 'fühl', 'frei']",5
+1035,"['viel', 'viel', 'Herz']",1
+1036,"['Tag', 'erwachen']",1
+1037,"['Let', 'Go']",2
+1038,"['viel', 'bescheiden']",7
+1039,"['Club', 'Millionär']",6
+1040,['Augenblick'],9
+1041,"['Hans', 'Stoffel', 'Schloss', 'fertig']",4
+1042,"['Strand', 'Maspalomas']",2
+1043,"['Jing', 'Jingeling', 'Weihnachtsschnappi']",5
+1044,['Malaika'],3
+1045,"['Gangsta', 'Rap']",11
+1046,"['Tschernobyl', 'letzter', 'Signal']",8
+1047,"['bunt', 'Trümmer']",6
+1048,"['', 'German', 'Version']",5
+1049,['Spiegel'],14
+1050,"['gehst', 'stürzen', 'Himmel']",11
+1051,"['Besten', 'sterben', 'jung']",11
+1052,"['Engel', 'Nacht']",4
+1053,"['hier', 'kommen', 'Alex', 'MTV', 'Unplugged']",1
+1054,"['The', 'Grosser']",9
+1055,"['liegen', 'arme']",14
+1056,"['Santa', 'Lucia', 'Versunk', 'Meer']",1
+1057,['verzweifelt'],13
+1058,"['Mädchen', 'mach', 'frei']",1
+1059,"['Zeile', 'Gold']",10
+1060,"['Leben', 'interessiert']",8
+1061,"['alleine', 'schaffen']",22
+1062,['Schätzelein'],7
+1063,"['Klick', 'klack']",13
+1064,"['immer', 'willst']",5
+1065,"['Freund', 'bleiben']",12
+1066,"['singen', 'ganz']",1
+1067,['Tiptop'],6
+1068,"['Rendezvous', 'lang', 'sehen']",2
+1069,['Hija'],4
+1070,"['Gott', 'Popstar']",9
+1071,"['gib', 'nur', 'bissch']",1
+1072,['Virus'],16
+1073,"['Schieß', 'Ball', 'Tor']",3
+1074,"['alledem', 'tun', 'leid']",5
+1075,"['geh', 'Flamme']",14
+1076,['Regen'],12
+1077,"['Liebe', 'wollen', 'wissen']",5
+1078,"['Gott', 'schenk', 'Flügel']",10
+1079,['unendlich'],11
+1080,"['', 'Sünde']",2
+1081,['Wahlkampf'],4
+1082,"['können', 'lieben']",1
+1083,['Sonnenlicht'],5
+1084,"['nie', 'genug']",13
+1085,['wirklich'],4
+1086,"['letzter', 'Streichholz']",4
+1087,"['Tag', 'Schutzumschlag']",5
+1088,['Feieralarm'],4
+1089,['SOS'],4
+1090,"['wollen', 'gehn']",4
+1091,['Alarm'],1
+1092,"['richtig', 'scheißen', 'ne', 'schön', 'Art', 'Weise']",7
+1093,"['Verdamp', 'lang', 'her', 'verdammen', 'lang', 'Single']",1
+1094,"['', '', '', '']",34
+1095,['Meer'],5
+1096,"['Ende', 'Kreis']",2
+1097,"['Tanz', 'Moleküle']",19
+1098,['drehen'],24
+1099,"['Muh', 'Muh', 'Muh']",3
+1100,['Gheddo'],11
+1101,"['Papa', 'zurück']",4
+1102,['prinzesschen'],18
+1103,"['Liebe', 'nie', 'enden']",6
+1104,"['Springt', 'hoch']",3
+1105,"['Çüs', 'jung']",1
+1106,['klar'],10
+1107,"['Sommer', 'Leben']",15
+1108,"['Katharine', 'Katharine']",14
+1109,['Danke'],21
+1110,['JaJa'],9
+1111,"['klingen', 'Liebe']",1
+1112,"['Ek', 'Is', 'Back']",4
+1113,"['Skyline', 'Bordstein', 'zurück']",7
+1114,"['Rosi', 'Mann', 'schwach', '']",5
+1115,['Janine'],6
+1116,"['können', 'erschießen']",8
+1117,['OR'],3
+1118,['Scherbenmeer'],6
+1119,['Vergiss'],10
+1120,"['Freiheit', 'Live']",16
+1121,['Komm'],6
+1122,"['Cowboy', 'Indianer', 'Remix', '']",1
+1123,"['Erinner', 'vergessen']",9
+1124,"['Türlich', 'Türlich', 'Word', 'Up']",7
+1125,['fick'],7
+1126,"['Santamarghuaritanobiledimôntepulciano', 'klein', 'Fischerdorf']",6
+1127,"['Schwammalarm', 'Ozean']",1
+1128,['Sonnenschein'],6
+1129,['Zerriss'],11
+1130,['beide'],8
+1131,"['Aba', 'Heidschi', 'Bumbeidschi']",1
+1132,"['wahr', 'Satan']",1
+1133,"['jetzt', 'lo']",1
+1134,['sterben'],3
+1135,['Strassenjung'],7
+1136,['Vendetta'],8
+1137,"['schlecht', 'Vorbild']",11
+1138,"['gut', 'gehts']",9
+1139,"['Dä', 'kölsch', 'Pass']",2
+1140,"['Stern', 'Name', 'tragen']",77
+1141,"['Sonne', 'Nacht', 'Live']",1
+1142,"['Children', 'Of', 'The', 'World']",1
+1143,"['Jung', 'willig']",1
+1144,"['schön', 'Leben']",1
+1145,"['Lied', 'eins', 'Stück', 'Himmel']",10
+1146,"['Frau', 'regier', 'Welt']",9
+1147,['Lara'],5
+1148,"['Ernt', 'säen']",15
+1149,"['Lass', 'tanzen']",4
+1150,['Nano'],1
+1151,['Träumst'],7
+1152,['Kind'],11
+1153,"['Rapper', 'Deutsch']",1
+1154,['Spring'],7
+1155,['Seite'],9
+1156,"['erster', 'Tran']",6
+1157,['Revolution'],5
+1158,"['immer', 'noch', 'Stern', 'Part', 'II']",1
+1159,"['Mann', 'Sch', 'Sexy']",3
+1160,['warten'],2
+1161,"['Knut', 'klein', 'Eisbär']",4
+1162,"['dick', 'Anna']",7
+1163,"['Welt', 'verändern']",4
+1164,['Rest'],1
+1165,['einfach'],22
+1166,['Ichisichisichisich'],1
+1167,"['endlich', 'Grund', 'Panik']",1
+1168,"['können', 'nix', 'dafür']",12
+1169,"['Knut', 'geht', 'gut']",2
+1170,"['Pinguin', 'Rap']",4
+1171,['bins'],1
+1172,['Neustart'],1
+1173,"['Heul', 'doch']",14
+1174,"['Schau', 'hin']",1
+1175,"['Lied', 'drei']",1
+1176,"['selber', 'Stern']",35
+1177,['Automobil'],2
+1178,['liebmichhassmich'],3
+1179,"['Stern', 'Stuttgart', 'stehen']",1
+1180,"['Heyah', 'Mama']",1
+1181,['stark'],30
+1182,"['Prison', 'Break', 'Anthem', 'glaub']",16
+1183,['Lauta'],3
+1184,"['bringen', 'runter']",6
+1185,"['sollen', 'bleiben']",37
+1186,"['Beweg', 'Arsch']",12
+1187,['Roger'],3
+1188,"['erster', 'Liebe']",6
+1189,"['Mond', 'Ghetto', 'krachen']",1
+1190,"['rot', 'Pferd']",1
+1191,['verlieren'],12
+1192,['Hamma'],25
+1193,['Glücksprinzip'],1
+1194,"['verdammen', 'leiben']",5
+1195,"['Heimweh', 'Insel', 'Joana']",8
+1196,['Bedingungslos'],8
+1197,['Sommergefühl'],3
+1198,['unzertrennlich'],1
+1199,"['König', 'Welt']",1
+1200,['jung'],9
+1201,"['reich', 'Hand']",6
+1202,"['Gegenteil', 'Liebe']",6
+1203,"['Gisela', 'Isch', 'möschen', 'nischen']",12
+1204,['Chica'],4
+1205,"['Besonderer', 'Tag']",1
+1206,"['Ey', 'DJ']",15
+1207,"['wollen', 'leb']",6
+1208,"['schön', 'Arsch', 'Welt']",21
+1209,['na'],2
+1210,"['Lied', 'scheitern']",4
+1211,"['Las', 'redn']",16
+1212,"['wollen', 'immer']",3
+1213,"['nur', 'Liebe', 'weinen']",2
+1214,['verstehen'],5
+1215,"['leiben', 'immer', 'noch', 'sehr']",1
+1216,['Kiel'],1
+1217,['Doktorspielen'],13
+1218,"['Weihnachtssong', '']",2
+1219,"['rot', 'Halsband']",3
+1220,"['Deutscha', 'Bad', 'Boy']",3
+1221,['Dynamit'],2
+1222,['Döner'],8
+1223,"['Eskimo', 'Tanz']",1
+1224,"['Shaun', 'Schaf']",5
+1225,"['Party', 'Hitmix', 'Vol', '']",1
+1226,"['Dschungel', 'Wahnsinn']",4
+1227,"['Hallo', 'Papi']",4
+1228,"['Leben', 'lang']",2
+1229,"['Kopf', 'Zahl']",1
+1230,"['kummen', 'Allemann', 'vorbei']",1
+1231,['Bo'],4
+1232,['Weisst'],3
+1233,"['Kuschel', 'Song']",18
+1234,['Zentimeter'],9
+1235,"['Würdest', 'tun']",2
+1236,"['Sand', 'Hand']",1
+1237,"['Cowboy', 'Indianer', 'Hit', 'Version']",13
+1238,['Ozean'],3
+1239,"['Omi', 'Hit']",4
+1240,"['Bettina', 'zieh', 'bitte']",13
+1241,['Porno'],5
+1242,['Liebeslied'],2
+1243,"['Traum', 'leben', 'ewig']",1
+1244,['durchhängst'],9
+1245,['Erdbeben'],7
+1246,['Nina'],2
+1247,"['Held', '']",9
+1248,"['bringen', 'heim']",8
+1249,"['ganz', 'anders']",6
+1250,"['', 'Herz']",1
+1251,['Geschichtenhasser'],3
+1252,['frei'],1
+1253,"['Stern', 'Süden', 'Version', '', '']",4
+1254,"['Lass', 'Leben']",1
+1255,['Hölle'],1
+1256,['leiben'],9
+1257,['Herz'],19
+1258,"['Stern', 'Deutschland', 'stehen']",2
+1259,"['zwei', 'Herz']",4
+1260,"['Auge', 'Halt', 'Maul']",11
+1261,"['gib', 'Sonne']",21
+1262,['Carme'],9
+1263,['nein'],6
+1264,['Allemann'],2
+1265,"['Stern', 'Deutschland', 'stehen', 'Europameister', 'leben']",2
+1266,"['Welt', 'noch', 'sehen']",15
+1267,"['Held', 'suchen']",8
+1268,['neu'],30
+1269,"['Junge', 'wär']",5
+1270,"['Hörst', 'Regenwürmer', 'husten']",7
+1271,"['noch', '', '', 'Jahr']",20
+1272,"['blau', 'Flecken']",6
+1273,"['weit', 'vorbei']",7
+1274,"['Traurig', 'Mädchen']",8
+1275,['Labyrinth'],9
+1276,['Alleinesein'],5
+1277,['Freiheit'],1
+1278,"['Drück', '']",5
+1279,"['Ching', 'Ching']",7
+1280,['Nichimgriff'],1
+1281,"['schwarz', 'blau']",15
+1282,['Schluss'],16
+1283,"['wundervoll', 'Bellissima']",9
+1284,['Jungfrauenchor'],4
+1285,"['ring', 'frei']",8
+1286,['You'],3
+1287,"['immer', 'jung']",13
+1288,['Strom'],5
+1289,['Luftbahn'],3
+1290,"['Liebe', 'dritt']",5
+1291,['niemals'],1
+1292,['Träne'],2
+1293,['Glück'],16
+1294,['Auflös'],1
+1295,['ertrinken'],3
+1296,['Amsterdam'],2
+1297,['verlieben'],4
+1298,['Schäferlied'],10
+1299,"['Schnuffel', 'Weihnachtslied']",2
+1300,"['letzter', 'Tran']",7
+1301,"['denk', 'Weihnachten']",1
+1302,"['Scheiss', 'Liebe']",1
+1303,"['NaJuCo', 'Colonia']",2
+1304,"['Schatz', 'halt', 'Maul']",1
+1305,"['Sklavin', 'Liebe']",1
+1306,"['schön', 'Tag', 'Fliegerlied']",34
+1307,['Eisblume'],15
+1308,"['irgendwas', 'bleiben']",28
+1309,"['Scheisse', 'lieben']",6
+1310,"['darum', 'leben']",9
+1311,"['Mach', 'Bibo']",1
+1312,['egal'],4
+1313,"['Don', 'Know']",1
+1314,['bereuen'],12
+1315,"['Krieger', 'Licht']",24
+1316,['artrechen'],3
+1317,"['Sonne', 'raus', 'kommen']",1
+1318,"['leben', 'schön']",6
+1319,"['Schau', 'Schau']",1
+1320,['wiedersehen'],5
+1321,"['sing', 'mehr']",2
+1322,['Superhelde'],4
+1323,['Stadt'],31
+1324,"['gehen', 'feiern', 'ganz', 'Nacht']",55
+1325,"['Kennst', 'Star']",1
+1326,"['Iz', 'On']",6
+1327,"['bunt', 'Kuh']",1
+1328,"['willst', 'Wäsche']",1
+1329,"['Oh', 'Jonny']",13
+1330,['irgendwo'],2
+1331,"['SAGEN', 'DANKE', 'SCHÖN']",6
+1332,"['Kenn', 'Name', 'Scheissegal', 'Besoff']",1
+1333,"['wollen', 'nur', 'Stimme', 'hörn']",11
+1334,"['Alt', 'Arschloch', 'Liebe']",1
+1335,"['schön', 'neu', 'Welt']",19
+1336,['wahr'],6
+1337,"['bau', 'Schloss']",20
+1338,"['wollen', 'immer', 'wieder', 'Fieber', 'spür']",9
+1339,"['Isch', 'kandidieren']",1
+1340,"['jetzt', 'kommen', 'wieder', 'Sache']",1
+1341,"['Amoi', 'seg', 'ma', 'wieder']",26
+1342,['Hoffnung'],3
+1343,['Disko'],1
+1344,['automatisch'],6
+1345,"['noch', 'niemals', 'New', 'York']",8
+1346,"['Somma', 'Kiez']",11
+1347,['Monsta'],29
+1348,['eiskalt'],26
+1349,"['Chance', 'Gangsta']",2
+1350,['Pflaster'],23
+1351,['Haifisch'],1
+1352,['Hey'],22
+1353,['hier'],2
+1354,['Louise'],2
+1355,"['können', 'gut']",20
+1356,"['Dancing', 'Is', 'Like', 'Heaven']",1
+1357,"['schenk', 'Herz']",3
+1358,['Halte'],3
+1359,['Zwei'],9
+1360,['Universum'],15
+1361,['Hilf'],4
+1362,"['Küss', 'halt', 'leiben']",21
+1363,"['Uhr', 'Stunde']",1
+1364,['HimmelblauPerfektBreit'],1
+1365,"['tun', 'wieder', 'weh']",2
+1366,"['Disco', 'Pogo']",28
+1367,['Halleluja'],3
+1368,"['Komm', 'Ruhr']",9
+1369,"['', 'Meter', 'geh']",1
+1370,"['Gebor', 'leben']",59
+1371,"['Komm', 'malen', 'Leben']",1
+1372,"['letzter', 'Kuss', 'live']",1
+1373,['Spinner'],13
+1374,['tanzen'],19
+1375,"['Lass', 'nie', 'mehr', 'los', 'MTV', 'Unplugged', 'New', 'York']",7
+1376,"['Jein', '']",8
+1377,['Flagge'],15
+1378,"['geben', 'ruhig', 'Schuld', 'Rest', 'können', 'behalten']",13
+1379,"['Rock', 'Scheisse', 'fett']",3
+1380,['Atzin'],8
+1381,['Suche'],4
+1382,"['Lass', 'Liebe', 'regieren']",1
+1383,['rot'],2
+1384,"['Not', 'Myself', 'Tonight']",3
+1385,['Orchester'],3
+1386,"['Himmel', 'sollen', 'warten']",13
+1387,"['Can', 'Be', 'Tamed']",5
+1388,"['', 'gehen', 'nur', 'zurück', 'Anlauf', 'nehmen']",4
+1389,"['Traum', 'Afrika']",3
+1390,"['Beautiful', 'Monster']",12
+1391,"['deutsch', 'Nationalhymne']",1
+1392,"['Checker', 'Vollstrecker']",7
+1393,"['Fackel', 'Wind', '']",7
+1394,['Solala'],1
+1395,"['Schland', 'Schland']",6
+1396,"['elektrisch', 'Gefühl']",14
+1397,"['sollen', 'Mensch', 'ertragen']",9
+1398,"['leben', 'Moment']",7
+1399,['Verstrahlen'],3
+1400,"['nein', 'Mann']",24
+1401,"['wollen', 'fliegen']",1
+1402,"['immer', 'dunkel']",3
+1403,['süchtig'],3
+1404,"['Ewigkeit', 'Ewigkeit']",1
+1405,"['Zeig', 'tanzen']",1
+1406,"['Berlin', 'Most', 'Wanted']",2
+1407,"['bitte', 'hör', 'träumen', 'Live']",13
+1408,['still'],37
+1409,"['Berlin', 'City', 'Girl']",16
+1410,['Winter'],15
+1411,"['Million', 'Voices', '', 'Seconds']",9
+1412,"['wollen', 'feiern']",1
+1413,"['Schatzi', 'schenk', 'Foto']",6
+1414,"['Wolke', '']",68
+1415,['Schiffsverkehr'],6
+1416,"['schnell', 'vorbei']",2
+1417,"['Dach', 'Berlin']",2
+1418,"['Hey', 'woll', 'Eisbärn', 'sehn']",1
+1419,"['sollen', 'träumen']",31
+1420,"['Strobo', 'Pop']",15
+1421,"['Lecker', 'Lecker']",1
+1422,"['wahr', 'Aim', 'High']",1
+1423,['Frankfurt'],1
+1424,"['hart', 'Weg']",1
+1425,"['Marry', 'The', 'Night']",13
+1426,"['nur', 'Kopf']",22
+1427,"['nur', 'noch', 'kurz', 'Welt', 'retten']",37
+1428,"['Liebe', 'Gold']",3
+1429,"['Wärst', 'immer', 'noch', 'hier']",1
+1430,"['BVB', 'Hymne', '']",1
+1431,"['Wunderkerze', 'brennen']",5
+1432,"['Willst', 'bleiben']",2
+1433,"['lieben', 'immer', 'noch']",1
+1434,['Eisberg'],1
+1435,['laufen'],1
+1436,"['sag', 'einfach', 'Ja']",1
+1437,['Sprache'],18
+1438,['Mikrofon'],1
+1439,['davon'],1
+1440,"['weit', 'gehen']",1
+1441,"['ick', 'lieben']",1
+1442,['perfekt'],5
+1443,['Echt'],22
+1444,"['konntest', 'nur']",1
+1445,['Wechselbalg'],1
+1446,['Spiegelbild'],1
+1447,"['Brenna', 'tuats', 'guat']",4
+1448,"['wollen', 'Berlin']",1
+1449,"['Eiserner', 'Steg']",15
+1450,"['Herz', 'können', 'reparieren', 'MTV', 'Unplugged']",10
+1451,"['Lied', 'Vergessen']",2
+1452,"['Cello', 'MTV', 'Unplugged']",24
+1453,"['Reeperbahn', '', 'What', 'It', 'Like', 'MTV', 'Unplugged']",2
+1454,['Apfelbaum'],1
+1455,['Phänomen'],1
+1456,['Freundschaft'],7
+1457,['machen'],1
+1458,['Moment'],7
+1459,"['Hungry', 'Eyes']",9
+1460,"['Morgen', 'immer', 'müde']",13
+1461,['Ständertime'],1
+1462,['Erwachse'],3
+1463,['Aura'],1
+1464,['Schee'],1
+1465,['Land'],4
+1466,"['wilde', 'Ding']",11
+1467,"['Geboren', 'frei']",1
+1468,['Himmel'],14
+1469,"['Song', 'Liam']",8
+1470,['verrückt'],2
+1471,"['Bück', 'hoch']",17
+1472,"['leider', 'Geil', 'leider', 'Geil']",20
+1473,"['Dach', 'Welt']",1
+1474,['Fallschirm'],8
+1475,"['Need', 'Girl', 'Part', '']",3
+1476,['ZeiDverschwÄndung'],6
+1477,['Easy'],31
+1478,"['Licht', 'Stadt']",4
+1479,['ja'],14
+1480,"['all', 'Augenblick']",1
+1481,"['noch', 'Punkrock']",1
+1482,"['Borussia', 'schenk', 'Schale']",1
+1483,['morgen'],12
+1484,"['Alte', 'Fieber']",21
+1485,"['draußen', 'Tür']",1
+1486,"['Party', 'wollen', 'abgehn']",1
+1487,"['Model', 'Superstar']",1
+1488,"['final', 'kommen']",2
+1489,"['wollen', 'nur', 'Live']",5
+1490,"['King', 'Of', 'Raop']",1
+1491,"['einmal', 'Welt']",31
+1492,"['Ausflug', 'Blaue']",3
+1493,"['nur', 'noch', 'Schuh']",2
+1494,"['Feind', 'Feind']",1
+1495,['zwei'],2
+1496,['Gezabel'],1
+1497,"['letzter', 'Sommer']",4
+1498,"['Schau', 'mehr', 'zurück']",13
+1499,"['Donnersong', 'Thund', 'Buddies']",2
+1500,"['Fühlt', 'Fliege']",8
+1501,"['Lila', 'Wolke']",30
+1502,"['können', 'nur', 'Liebe', 'retten']",1
+1503,"['Horst', 'Monika']",1
+1504,['Mach'],1
+1505,"['Wage', 'glauben']",4
+1506,"['bestmöglich', 'Versuch']",1
+1507,['Augenbling'],28
+1508,"['klein', 'Bushido']",1
+1509,"['Nimm', 'Leben', 'lass', 'mehr', 'los']",1
+1510,"['Unendliches', 'Leben']",1
+1511,['Ewigkeit'],1
+1512,"['Starting', 'Over']",1
+1513,['kommen'],6
+1514,"['Bild', 'Kopf']",29
+1515,"['fest', 'Liebe']",1
+1516,"['Herz', 'brennen', '']",2
+1517,['Heimweh'],2
+1518,"['raus', 'Nebel']",1
+1519,"['Einsamer', 'Stern']",1
+1520,"['Drive', 'By']",1
+1521,['Komet'],1
+1522,"['Berlin', 'Tag', 'Nacht']",1
+1523,"['kennen', 'Westen']",1
+1524,['Stärke'],7
+1525,"['Chabos', 'wissen', 'Babo']",3
+1526,"['klein', 'Küken', 'Piept']",10
+1527,"['et', 'jeten', 'kei', 'Wood']",4
+1528,"['Million', 'Licht']",22
+1529,['Schönste'],14
+1530,"['Rock', 'mi']",4
+1531,"['Liebe', 'Rebellion']",15
+1532,"['Waldspaziergang', 'Folge', 'Sohn', 'Leere']",1
+1533,"['seiden', 'Faden']",7
+1534,"['nie', 'vergessen']",15
+1535,['Soldat'],14
+1536,"['Himmel', 'Hölle']",5
+1537,['Seele'],20
+1538,"['Applaus', 'Applaus']",27
+1539,"['Rangel', 'Song']",1
+1540,"['Summerfeeling', 'purn', 'bräun']",3
+1541,['Superstar'],1
+1542,['KussKussKuss'],1
+1543,['Strand'],12
+1544,"['Scheiss', 'drauf', 'Mallorca', 'nur', 'einmal', 'Jahr']",3
+1545,['Programmiert'],1
+1546,"['New', 'York', 'Rio', 'Rosenheim']",1
+1547,"['Hören', 'hören']",1
+1548,"['letzter', 'Blick']",1
+1549,"['Geschichte', 'bleiben', 'Geschichte']",1
+1550,['Whatever'],18
+1551,"['Liebs', 'Lass']",6
+1552,"['Stress', 'Grund']",2
+1553,['Wachstum'],1
+1554,['Ascheregen'],9
+1555,['schön'],39
+1556,"['können', 'nehmen']",12
+1557,"['Springfield', '']",1
+1558,"['Bruce', 'Wayne']",1
+1559,['Kornblum'],2
+1560,['hashtag'],1
+1561,['Fehlerfrei'],6
+1562,"['Big', 'Bang']",1
+1563,['traun'],1
+1564,['Hinterland'],4
+1565,"['Elektrotitte', '', '', 'Volt']",1
+1566,"['rennen', 'Stolper']",4
+1567,"['lass', 'Licht']",27
+1568,"['Lass', 'gehen']",21
+1569,['Fremde'],1
+1570,"['enden', 'nie', 'Musik']",1
+1571,['Vampir'],1
+1572,['Marathon'],2
+1573,"['atemlos', 'Nacht']",71
+1574,['Echo'],7
+1575,"['Keep', 'Calm', 'Fuck']",5
+1576,"['Kölsche', 'Jung']",4
+1577,"['verdammt', 'Welt']",1
+1578,"['immer', 'immer']",7
+1579,['Aschenflug'],3
+1580,['Zuhaus'],14
+1581,['Stein'],13
+1582,['Haut'],43
+1583,"['bengalisch', 'Tiger']",1
+1584,['lieber'],2
+1585,"['Kids', '', 'Finger', 'Kopf']",19
+1586,['Arbeit'],1
+1587,"['immer', 'regnen', 'MTV', 'Unplugged']",2
+1588,"['Stille', 'Nacht']",1
+1589,['Kopfvilla'],1
+1590,"['Bitte', 'Spitte', 'Toi', 'Lab']",1
+1591,"['Swing', 'Ding']",1
+1592,"['Gelobtes', 'Land']",1
+1593,"['wär', 'erster', 'Mal']",3
+1594,['OMG'],14
+1595,"['Gangsta', 'Rap', 'King']",1
+1596,['Lutsch'],1
+1597,"['Lass', 'mal', 'Papa', 'machen']",2
+1598,"['nur', 'vorne', 'gehen']",1
+1599,"['wollen', 'hier']",1
+1600,['Alpha'],6
+1601,"['St', 'Pauli']",9
+1602,"['King', 'Killa']",1
+1603,['Blank'],1
+1604,"['aK', 'Wandschrank']",4
+1605,"['Kanax', 'Moskau']",1
+1606,['Isso'],6
+1607,"['Joko', 'Diss']",1
+1608,['King'],10
+1609,"['Au', 'revoir']",45
+1610,"['Wat', 'is', 'los']",1
+1611,['Boss'],2
+1612,['Ultraleicht'],2
+1613,"['anderer', 'Weg']",35
+1614,['Grundlos'],1
+1615,['Flash'],30
+1616,"['Bauch', 'Kopf']",10
+1617,"['Lamborghini', 'Kickdown']",1
+1618,['Karate'],1
+1619,"['Geh', 'mal', 'Bier', 'hol', 'GmBh']",3
+1620,['Licht'],2
+1621,"['kommen', 'holen']",1
+1622,['Melodie'],6
+1623,"['Bad', 'Chick']",15
+1624,"['Hey', 'Girl']",7
+1625,"['voll', 'süss']",1
+1626,['Wölfe'],3
+1627,"['verdammen', 'normal']",1
+1628,['freidrehen'],2
+1629,"['Baby', 'riechsen']",2
+1630,"['Bleib', 'Schule']",1
+1631,['Mula'],1
+1632,"['Herz', 'verlieren']",1
+1633,['Beautiful'],1
+1634,['AWG'],1
+1635,['iDisco'],1
+1636,['Fang'],1
+1637,"['ne', 'Musik']",3
+1638,"['brechen', 'Seele']",1
+1639,"['rollen', 'meim', 'Besten', 'Remix']",1
+1640,"['jetzt', 'Teufel', 'los']",1
+1641,['brennen'],15
+1642,"['denken', 'gross']",3
+1643,"['unvergessen', 'unvergänglich', 'lebenslänglich']",1
+1644,"['verlieben', 'falsch', 'Mädchen']",2
+1645,"['Like', 'Arsch']",2
+1646,['Doppelkinn'],1
+1647,"['genau', 'jetzt']",1
+1648,"['Butterfly', 'Effect']",1
+1649,"['schützend', 'Engel']",1
+1650,"['Schwung', 'Kiste']",7
+1651,"['Herz', 'Kopf']",37
+1652,"['wirklich', 'bleiben']",3
+1653,"['Leben', 'schön']",1
+1654,['forrest'],1
+1655,"['Geile', 'Leben']",42
+1656,['Hulapalu'],44
+1657,"['', 'Main', 'St']",1
+1658,"['Boom', 'Boom', 'Boom']",1
+1659,['Ackan'],1
+1660,"['Ne', 'Sekunde', 'Sommer']",3
+1661,['Schlaflied'],1
+1662,"['mitten', 'Jahr']",2
+1663,"['Tango', 'hören']",5
+1664,['real'],5
+1665,['Hasso'],3
+1666,"['riechst', 'gut', '']",8
+1667,['Nimmerland'],1
+1668,"['Bye', 'Bye']",23
+1669,"['Shindy', 'Balkan', 'Mix']",1
+1670,"['Hurra', 'Welt', 'gehen']",9
+1671,['Lieblingsmensch'],30
+1672,['Astronaut'],34
+1673,['geht'],1
+1674,"['wollen', 'nur', 'weißen']",39
+1675,"['immer', 'lachen']",41
+1676,['grenzenlos'],1
+1677,"['Leichtes', 'Gepäck']",15
+1678,"['oft', 'fragen']",20
+1679,"['John', 'Gotti']",1
+1680,"['denk', 'Kind']",2
+1681,"['nur', 'Lied']",2
+1682,['Polizei'],4
+1683,['Stimme'],25
+1684,"['Empire', 'Business']",1
+1685,['Blutdiamante'],1
+1686,"['Bye', 'Bye', 'Mr', 'President']",1
+1687,"['Jeck', 'Yeah']",1
+1688,['Lebenskraft'],1
+1689,"['Intro', 'Zuhältertape', 'Vol', '']",1
+1690,"['Geboren', 'lieben']",5
+1691,"['Nacht', 'Sünde', 'wert']",1
+1692,"['', '']",11
+1693,"['Leev', 'Marie']",1
+1694,['Pocahontas'],3
+1695,"['', 'Million']",18
+1696,"['Seite', 'Seite']",3
+1697,['sterbn'],3
+1698,"['Lass', 'tanzen', 'Square', 'Dance']",6
+1699,['gross'],20
+1700,['Musik'],18
+1701,['Glücksmoment'],6
+1702,['Holland'],14
+1703,"['Sex', 'Grund']",7
+1704,['Ahnma'],24
+1705,['sowieso'],17
+1706,['Chöre'],21
+1707,"['Johnny', 'Däpp']",1
+1708,['Holz'],22
+1709,"['Stoff', 'Schnaps']",11
+1710,"['Palme', 'Plastik']",32
+1711,['Roli'],4
+1712,"['Ruhe', 'Sturm']",1
+1713,['Scheissmelodie'],4
+1714,['einmal'],13
+1715,['Geschenk'],7
+1716,['Poß'],2
+1717,['Mörder'],10
+1718,['Bang'],1
+1719,['Maschine'],15
+1720,['Neuanfang'],2
+1721,"['Ciao', 'ciao']",1
+1722,['Team'],41
+1723,['Erblindet'],1
+1724,['Skimaske'],1
+1725,['Kokaina'],24
+1726,"['Erklär', 'Liebe']",11
+1727,"['Steady', '']",10
+1728,['Leer'],3
+1729,['Triumph'],1
+1730,['Mosquito'],1
+1731,['TelVision'],1
+1732,['Masafaka'],1
+1733,"['Palme', 'Gold']",10
+1734,"['IPhone', '']",11
+1735,['brauch'],1
+1736,"['Benz', 'AMG']",1
+1737,"['Liebe', 'Stadt']",1
+1738,"['Bitteres', 'Manifest']",1
+1739,"['Nummer', 'Eins']",2
+1740,['irgendwas'],2
+1741,['Kaiseraura'],1
+1742,['Pharao'],1
+1743,['Aventador'],5
+1744,"['American', 'Express']",1
+1745,['Skandal'],1
+1746,"['Lauf', 'Baby', 'lauf']",1
+1747,['Safari'],3
+1748,['Atrami'],1
+1749,"['groß', 'Kaliber']",1
+1750,"['schön', 'kaputt']",3
+1751,['Cazal'],3
+1752,['Diamant'],3
+1753,"['Nummer', '']",12
+1754,"['mehr', 'Job']",3
+1755,['alien'],1
+1756,"['hier', 'noch', 'weiter']",8
+1757,['Wolke'],1
+1758,['Stress'],1
+1759,['Gang'],1
+1760,"['Mensch', 'Leben', 'tanzen', 'Welt']",2
+1761,"['Plem', 'Plem']",1
+1762,['Achterbahn'],2
+1763,['LFR'],5
+1764,['Kontrollier'],9
+1765,['Wannsee'],1
+1766,"['Laune', 'Natur']",1
+1767,['Pate'],1
+1768,"['Geld', 'muss', 'Weg']",3
+1769,"['Halt', 'Uhr']",1
+1770,"['Louis', 'Louis']",12
+1771,['Bros'],12
+1772,['Murcielago'],12
+1773,"['Sodom', 'Gomorrha']",3
+1774,['Papa'],6
+1775,['blaue'],8
+1776,['Unendlichkeit'],18
+1777,"['Black', 'Friday']",1
+1778,"['echt', 'Berliner']",1
+1779,['moonwalk'],1
+1780,['CCNDNA'],1
+1781,"['Oma', 'Lis']",1
+1782,['willst'],22
+1783,['heute'],23
+1784,['Tabasco'],1
+1785,"['voll', 'Ding']",1
+1786,"['Nice', 'Girl', '', '']",12
+1787,"['nur', 'noch', 'Gucci']",3
+1788,['Jungz'],6
+1789,"['High', 'Life']",2
+1790,['Sitzheizung'],2
+1791,"['', 'Batz']",2
+1792,['probieren'],3
+1793,['Bargeld'],1
+1794,['Knöcheltief'],13
+1795,"['Olé', 'olé']",7
+1796,['Primo'],24
+1797,"['anderer', 'Liga']",6
+1798,['Root'],1
+1799,"['Kleiner', 'Cabrón']",13
+1800,['Señorita'],23
+1801,['Grossstadtdschungel'],1
+1802,['Telefon'],6
+1803,['GottSeiDank'],7
+1804,['Yakuza'],2
+1805,"['Liebe', 'heißen']",1
+1806,['Kogong'],10
+1807,"['letzter', 'Liebe']",2
+1808,"['neu', 'Welt']",3
+1809,['Montpellier'],2
+1810,"['Sturmmask', 'Intro']",9
+1811,"['Zieh', 'Rucksack']",9
+1812,"['zweistellig', 'Haftstrafe']",1
+1813,"['Liebe', 'nennst']",34
+1814,"['Soldat', '', '']",9
+1815,"['gut', '', 'Cent']",1
+1816,"['schnell', 'machen']",4
+1817,"['sterben', 'kannst', 'überall']",1
+1818,['vorankommen'],5
+1819,"['Asche', 'Staub', 'Psycho', 'Nikoro']",2
+1820,"['Mon', 'chéri']",4
+1821,['Gamechanger'],5
+1822,['Allstar'],2
+1823,['Antiwillkommus'],1
+1824,['Tiffany'],4
+1825,['Doggy'],3
+1826,"['Ave', 'Maria']",3
+1827,"['Rap', 'wieder', 'Rap']",2
+1828,['Studiogangster'],1
+1829,"['Jung', 'brutal', 'gutaussehend', '']",1
+1830,"['Gegner', 'Boden', 'liegen']",1
+1831,['Düsseldorfer'],1
+1832,['Jagdsaison'],1
+1833,['Frontload'],1
+1834,"['letzter', 'Gangsterrapcrew']",1
+1835,['Massephas'],1
+1836,['Warlordz'],1
+1837,"['deutsch', 'Großstadt']",1
+1838,"['Älter', 'brutal', 'skrupellos', 'Outro']",1
+1839,['Leiser'],17
+1840,"['sag', 'nix']",9
+1841,['Gjynah'],2
+1842,"['', 'Schuss']",1
+1843,"['Gotham', 'City']",8
+1844,['Waffe'],6
+1845,"['Qa', 'Bone']",14
+1846,['FML'],2
+1847,"['Peter', 'Pan', '']",4
+1848,['Data'],1
+1849,['AMG'],15
+1850,['Wäwä'],1
+1851,"['Beverly', 'Hills']",8
+1852,"['Airmax', 'Kopf']",3
+1853,['denken'],3
+1854,"['Kette', 'Cartier']",1
+1855,['Corleone'],4
+1856,['Magisch'],19
+1857,['Balenciaga'],3
+1858,['Ayé'],2
+1859,"['frisch', 'Block']",1
+1860,"['Schuß', 'Benz']",1
+1861,['Kriminell'],8
+1862,['Power'],3
+1863,['zusammen'],22
+1864,['Hunger'],2
+1865,"['Drück', 'drück']",5
+1866,['Überlebt'],4
+1867,"['Villa', 'Weiss']",1
+1868,"['dick', 'Lippe']",1
+1869,"['', 'Song', 'Nacht']",14
+1870,['Eloah'],5
+1871,['Wunder'],13
+1872,"['All', 'Eyez', 'On', 'Us']",1
+1873,['Rohdiamant'],1
+1874,['Kontostand'],1
+1875,"['Like', 'Lion']",1
+1876,['maserati'],3
+1877,"['Mama', 'Baba']",1
+1878,['erleben'],6
+1879,['Setz'],1
+1880,['Neymar'],22
+1881,['Nike'],1
+1882,['Königlich'],2
+1883,['fame'],27
+1884,['phänomenal'],9
+1885,['Legende'],1
+1886,['Chinchilla'],6
+1887,"['Bugatti', 'Veyron']",1
+1888,"['Netflix', 'Chill']",4
+1889,"['One', 'Night', 'Stand']",18
+1890,['Casanova'],22
+1891,"['nur', 'Echt']",2
+1892,"['niemals', 'satt']",1
+1893,['Halftim'],1
+1894,['Picco'],2
+1895,"['Berlin', 'leben']",7
+1896,['Had'],2
+1897,['Crew'],1
+1898,['Sonnenbrille'],9
+1899,['Balla'],1
+1900,"['Kennzeichen', 'TK']",4
+1901,"['gisell', 'Bündch']",1
+1902,['Darby'],1
+1903,"['Gutes', 'Herz']",1
+1904,"['Panzer', 'Tiger']",1
+1905,['Ballert'],1
+1906,['habibo'],9
+1907,"['Mitternacht', '']",2
+1908,"['', 'immer', '']",1
+1909,['Santorini'],6
+1910,"['Cordula', 'Grün']",11
+1911,['Ballin'],8
+1912,['Mercedes'],15
+1913,['VVS'],1
+1914,['Mythos'],1
+1915,['hoch'],16
+1916,['Melodien'],20
+1917,['Flouz'],1
+1918,"['', 'PS']",36
+1919,"['Nike', 'Pullover']",5
+1920,"['Sex', 'Tape']",4
+1921,['Supernova'],1
+1922,"['immer', 'sehn']",16
+1923,"['Dior', '']",22
+1924,['Facetime'],20
+1925,['Fuego'],1
+1926,['Risiko'],10
+1927,['Vagabund'],12
+1928,"['Chardonnay', 'Purple', 'Haze']",2
+1929,['unterwegs'],29
+1930,"['Hubba', 'Bubba']",1
+1931,['BlaBla'],4
+1932,['Mephisto'],3
+1933,['Kokain'],15
+1934,['UFF'],12
+1935,['Oneway'],1
+1936,['sekundenglück'],2
+1937,['Inshallah'],4
+1938,['Chaya'],1
+1939,"['Bang', 'Bang']",1
+1940,"['dear', 'Lord']",1
+1941,['Prominent'],3
+1942,"['Nummer', 'unterdrücken']",7
+1943,['lernen'],2
+1944,"['ja', 'Mann']",3
+1945,['Kompanie'],3
+1946,['Krimineller'],2
+1947,['Prophezeit'],1
+1948,['MDMA'],2
+1949,['Alien'],18
+1950,['Fightclub'],5
+1951,['Standard'],20
+1952,"['Push', 'It', 'To', 'The', 'Limit', 'Hoodtape', '']",1
+1953,['Löwe'],1
+1954,"['Tausend', 'Tattoos']",21
+1955,"['Zone', '', '']",2
+1956,"['selbst', 'verdienen']",1
+1957,['Maybach'],2
+1958,"['Trikot', 'Turin']",1
+1959,"['Lass', 'mal']",2
+1960,"['Schuß', 'fallen']",1
+1961,['TGV'],3
+1962,"['erster', 'Mal']",1
+1963,['Project'],1
+1964,"['', 'Land']",21
+1965,['Cataleya'],14
+1966,['Prominenz'],1
+1967,['Gospel'],1
+1968,['Perfekt'],7
+1969,"['Traube', 'Minze']",1
+1970,"['Baller', 'los']",20
+1971,"['sagen', 'schon']",3
+1972,['Nurmagomedow'],1
+1973,"['Milliondollar', 'mil']",6
+1974,['Farbe'],7
+1975,['Zoey'],7
+1976,['Benzema'],20
+1977,['Regenbogenfarben'],8
+1978,['Lelel'],9
+1979,"['HaifischNikez', 'Allstar']",8
+1980,"['Crack', 'Koks', 'Piece', 'Unternehmen']",3
+1981,['Yapma'],19
+1982,['Jaja'],11
+1983,['niemalsantäuschen'],5
+1984,"['Shem', 'Shem', 'Sex']",4
+1985,['Warnung'],6
+1986,"['Hobby', 'Hobby']",12
+1987,"['Sonne', 'untergehen']",5
+1988,['orbit'],2
+1989,['Prinzessa'],16
+1990,['Roadrunner'],12
+1991,['Ferrari'],8
+1992,"['', 'Minute']",9
+1993,"['Hallo', 'hallo']",5
+1994,['Kilo'],1
+1995,"['nur', 'Tanz']",4
+1996,['gib'],14
+1997,"['nur', 'Grund']",1
+1998,['DNA'],14
+1999,['Leyla'],3
+2000,['Khabib'],1
+2001,"['Capital', 'Bra', 'je', 'appelle']",9
+2002,['Frage'],6
+2003,"['Viva', 'la', 'Dealer']",7
+2004,['stell'],1
+2005,['Kamehameha'],2
+2006,"['Pam', 'pam']",1
+2007,['Hop'],2
+2008,"['Jay', 'Jay']",4
+2009,['Buffon'],2
+2010,"['Enes', 'Meral']",1
+2011,"['Traum', 'wahr']",2
+2012,"['Pass', 'liebst']",6
+2013,['ticken'],10
+2014,"['Kampfgeist', '']",2
+2015,['Allee'],9
+2016,"['Blackberry', 'Sky']",8
+2017,"['Hardcore', 'High']",3
+2018,"['Cherry', 'Lady']",13
+2019,['Dunkel'],3
+2020,"['Ya', 'salamen']",4
+2021,['Affalterbach'],12
+2022,['Mary'],21
+2023,"['gut', 'Tag']",1
+2024,"['Super', 'Lemon', 'Haze']",2
+2025,['Bentley'],1
+2026,['Glitza'],1
+2027,['Vincent'],25
+2028,['ICE'],3
+2029,['Harami'],8
+2030,"['Coco', 'Mama']",14
+2031,['Klassik'],1
+2032,['Blei'],10
+2033,"['Shoot', 'ma', 'Shoot']",4
+2034,"['Tu', 'appell']",4
+2035,['Rolex'],12
+2036,['Cabriolet'],1
+2037,"['Click', 'Click']",1
+2038,['Leg'],1
+2039,['Steh'],2
+2040,"['van', 'Vaart']",2
+2041,"['schwarz', 'Lock']",1
+2042,"['schon', 'ok']",1
+2043,['Plaza'],1
+2044,['Guadalajara'],1
+2045,"['danken', 'Mensch']",1
+2046,['Quarterback'],4
+2047,['Radio'],5
+2048,['Next'],4
+2049,"['Mercy', 'Mercy']",2
+2050,['Mosaik'],5
+2051,"['FMFL', '', '']",1
+2052,['Vermisse'],40
+2053,"['Bella', 'Donna']",5
+2054,['Souvenir'],1
+2055,['Sinn'],10
+2056,['Ghetto'],4
+2057,['Nautilus'],10
+2058,['Ausländer'],5
+2059,['Puppe'],1
+2060,['Sex'],9
+2061,['Tattoo'],1
+2062,"['weit', 'weg']",1
+2063,['Zeig'],1
+2064,['Perdono'],3
+2065,"['', 'Shotz']",1
+2066,"['Brot', 'Haus']",1
+2067,['Fliegst'],4
+2068,"['wieder', 'Lila']",19
+2069,['Barrio'],6
+2070,"['immer', 'Stras']",1
+2071,['Sorry'],1
+2072,"['Marlboro', 'Rot']",5
+2073,['Vintage'],6
+2074,['Buch'],2
+2075,"['Weiss', 'noch']",1
+2076,['Hermès'],1
+2077,['Malediven'],3
+2078,"['Irina', 'Shayk']",3
+2079,['Badewanne'],3
+2080,['NENENE'],4
+2081,"['Michel', 'Vaillant']",1
+2082,"['Hi', 'Babe']",7
+2083,['Melatonin'],2
+2084,['diamonds'],13
+2085,"['Royal', 'Rumble']",6
+2086,"['Live', 'Bitch']",1
+2087,['Tilidin'],27
+2088,"['machen', 'Para', '']",3
+2089,['EFH'],3
+2090,['Fahrer'],3
+2091,['Autopilot'],1
+2092,['Strassenband'],1
+2093,['Money'],1
+2094,['Shot'],8
+2095,"['On', 'Off']",9
+2096,"['', 'Round', 'Drum']",2
+2097,"['jetzt', 'rufst']",13
+2098,"['kOMm', 'hYPnOTizE']",2
+2099,['Hellwach'],1
+2100,['Zombie'],8
+2101,"['Lass', 'gehn']",1
+2102,['Raffaello'],3
+2103,"['Bietigheim', 'Sunshine']",1
+2104,['Honigtopf'],1
+2105,['Babygirl'],2
+2106,['Drama'],1
+2107,['shoot'],1
+2108,['Rapsuperstar'],1
+2109,['Neptun'],5
+2110,['Film'],3
+2111,['Kadal'],2
+2112,['Problem'],17
+2113,['Bayram'],2
+2114,['Nummer'],6
+2115,['Kopf'],15
+2116,"['Gucci', 'Girl']",1
+2117,"['Money', 'Money']",2
+2118,['Berlin'],7
+2119,['Nokia'],1
+2120,['Macarena'],2
+2121,['echt'],1
+2122,"['Leben', 'Tod']",3
+2123,"['Run', 'Run', 'Run']",8
+2124,"['Dream', 'Girl']",1
+2125,['Rollerblades'],4
+2126,['Lost'],18
+2127,"['Olé', 'Olé']",3
+2128,"['', 'mm', 'Bang']",1
+2129,['Champion'],1
+2130,['Shirinbae'],1
+2131,['Name'],5
+2132,['genauso'],9
+2133,"['noch', 'kommen']",5
+2134,['Brilli'],5
+2135,['Roller'],78
+2136,"['Intro', 'Résumé']",4
+2137,['now'],1
+2138,"['verlieben', 'Gangster', '']",2
+2139,"['Up', 'Smoke']",7
+2140,['High'],7
+2141,['Primetime'],5
+2142,"['Junior', 'Neymar']",3
+2143,['Entourage'],1
+2144,['Plan'],16
+2145,['Huracan'],9
+2146,['Tempomat'],1
+2147,"['lieben', 'nur']",1
+2148,['Genick'],8
+2149,['stehen'],6
+2150,['fulu'],1
+2151,['Barcelona'],2
+2152,"['Auge', 'Husky']",3
+2153,"['Summer', 'Cem']",9
+2154,['Ronin'],3
+2155,"['', 'km']",33
+2156,['Pyramide'],2
+2157,['Adriana'],9
+2158,['Hand'],1
+2159,['Schau'],2
+2160,"['Hash', 'Hash']",3
+2161,"['Honda', 'Civic']",10
+2162,"['QDH', 'Family']",1
+2163,['Fabergé'],5
+2164,['Moneyhoneydrip'],3
+2165,"['bunt', 'Farbe']",1
+2166,['Biturbo'],1
+2167,"['Berlin', 'leben', 'nie', 'zuvor']",5
+2168,"['Purple', 'Rain']",2
+2169,"['Puta', 'madre']",8
+2170,"['Rhythmus', 'gefangen']",3
+2171,['Lowrider'],2
+2172,['Kral'],1
+2173,"['Feier', 'Regen']",1
+2174,['tust'],21
+2175,"['', 'Prolog']",1
+2176,['Phantom'],6
+2177,['normal'],4
+2178,"['doch', 'Nacht']",13
+2179,['Testo'],1
+2180,['Karma'],12
+2181,['Unnormal'],8
+2182,"['sagen', '']",1
+2183,['Beef'],2
+2184,"['Grey', 'Goose']",1
+2185,['YKKE'],1
+2186,"['Kafa', 'Leyla']",3
+2187,['Alphagenetik'],2
+2188,['Skifahre'],18
+2189,"['Ibis', 'Hotel']",1
+2190,['Pompa'],2
+2191,['Désolé'],5
+2192,"['willkommen', 'Zuhaus']",1
+2193,['Renegad'],1
+2194,"['Bratan', 'bleiben']",6
+2195,['Bietigheimication'],2
+2196,['Athen'],1
+2197,['Huli'],1
+2198,['lügst'],1
+2199,"['Mambo', 'No', '']",1
+2200,['Standort'],1
+2201,['Schlaf'],10
+2202,['Colt'],9
+2203,"['Himmel', 'grau']",2
+2204,"['Casino', 'Royal']",6
+2205,"['', 'BPM']",1
+2206,"['nur', 'Info']",5
+2207,['Star'],2
+2208,['Tür'],6
+2209,"['Puls', 'steigen']",1
+2210,['Casino'],2
+2211,"['My', 'Little', 'Sunshine']",1
+2212,['Benzo'],3
+2213,"['gehen', 'voran']",1
+2214,['hol'],6
+2215,"['nur', 'Dieb']",1
+2216,['Kommunikation'],3
+2217,['Ende'],8
+2218,['Minute'],1
+2219,['Genkidama'],1
+2220,"['Mon', 'ami']",5
+2221,['Alge'],1
+2222,"['tun', 'schon', 'wieder', 'weh']",1
+2223,['Ausgehe'],7
+2224,"['Public', 'Enemies']",1
+2225,['Weiss'],8
+2226,['Binn'],2
+2227,['Grind'],1
+2228,['Schiebedach'],1
+2229,"['Amex', 'Black']",2
+2230,['Mios'],7
+2231,['verkacken'],4
+2232,['Revenge'],1
+2233,"['Rich', 'Rich']",5
+2234,"['Schuß', 'Regen']",3
+2235,['Matrix'],8
+2236,"['Lass', 'los']",5
+2237,['Kamikaze'],1
+2238,['Treppenhaus'],16
+2239,"['', 'Cash']",4
+2240,['YYY'],5
+2241,"['Ching', 'Ching', 'Ching']",1
+2242,['schlafen'],2
+2243,"['', 'Uhr']",3
+2244,"['Passt', 'gar']",1
+2245,['Bolon'],1
+2246,['Angst'],18
+2247,['sip'],4
+2248,['Remember'],1
+2249,['Para'],1
+2250,"['Bad', 'Girls', 'Good', 'Vibes']",4
+2251,"['Teuer', 'Teuer']",1
+2252,['Kämpferherz'],2
+2253,['Quavo'],1
+2254,"['Pust', 'weg']",5
+2255,['Paris'],3
+2256,['RADW'],1
+2257,['Loco'],1
+2258,"['Träne', 'Kajal']",11
+2259,"['Angel', 'sippen']",8
+2260,['Grund'],1
+2261,['Crossover'],1
+2262,"['What', 'Luv']",7
+2263,['wach'],2
+2264,"['würd', 'lügen']",14
+2265,"['Sony', 'Pictures']",1
+2266,"['flasch', 'Luft']",1
+2267,['Cannabe'],1
+2268,['Move'],2
+2269,['BaeBae'],7
+2270,"['Shotz', 'Fired']",5
+2271,['lang'],4
+2272,['Underdog'],1
+2273,"['Final', 'Fantasy']",3
+2274,['siehst'],10
+2275,"['Fokus', 'Zukunft']",2
+2276,['Dieb'],3
+2277,['Goalgett'],1
+2278,['Emotion'],21
+2279,"['Weisser', 'Rauch']",13
+2280,['übermorgen'],35
+2281,['verdienen'],8
+2282,['vieler'],5
+2283,['Trendsetter'],4
+2284,['Brechen'],1
+2285,['Excel'],1
+2286,"['Conan', 'Xenia']",3
+2287,"['Te', 'amo', 'mi', 'Amor']",3
+2288,['anders'],2
+2289,"['Scheiss', 'drauf']",1
+2290,"['gehen', 'nich', 'gibs', 'nich']",3
+2291,['Modela'],1
+2292,['Airwaves'],17
+2293,"['Komm', 'kommen']",4
+2294,['Rollercoaster'],1
+2295,['Favela'],2
+2296,['Sandmann'],5
+2297,"['Bam', 'bam']",1
+2298,['Bogota'],2
+2299,"['wieder', 'mal']",1
+2300,"['Hoe', 'Up', 'Down']",3
+2301,['Boot'],12
+2302,['rennen'],3
+2303,['Benz'],21
+2304,['Fly'],7
+2305,['SKRR'],4
+2306,['viel'],1
+2307,"['Valla', 'nein']",4
+2308,['KMDF'],1
+2309,"['Jacob', 'Co']",1
+2310,['Krank'],1
+2311,['Hayat'],1
+2312,['Hentai'],1
+2313,"['Big', 'Body', 'Benz']",8
+2314,['Kaiok'],1
+2315,"['Déjàvus', 'Kopf']",1
+2316,['Snowbunny'],1
+2317,"['Ayo', 'Technology']",4
+2318,"['wissen', 'mal', 'heißen']",5
+2319,['Shakira'],1
+2320,['SoSo'],1
+2321,['MedMen'],3
+2322,['Dopeboy'],1
+2323,['XXL'],7
+2324,['Bläulich'],20
+2325,['Unbekannt'],2
+2326,"['Gangster', 'Queen']",2
+2327,['Sinaloa'],1
+2328,"['Geh', 'Weg']",3
+2329,['Tiefschwarz'],7
+2330,['rufen'],11
+2331,['Vertrau'],3
+2332,"['Sin', 'City']",1
+2333,['Cinderella'],6
+2334,['Miskin'],2
+2335,"['Blue', 'Jeans']",1
+2336,"['anderer', 'Welt']",10
+2337,"['International', 'Criminal']",4
+2338,"['Oh', 'jung']",1
+2339,"['Ma', 'Bae']",6
+2340,"['Shit', 'Changed']",4
+2341,['Lit'],1
+2342,['Fastlane'],4
+2343,['Signal'],1
+2344,['Crispy'],1
+2345,"['Tilidin', 'weg']",8
+2346,"['Mario', 'Run']",2
+2347,['QN'],2
+2348,"['Morgen', 'pauken']",1
+2349,['Perspektive'],1
+2350,['Fall'],1
+2351,['Xhep'],1
+2352,"['Kristall', '']",1
+2353,['Detail'],1
+2354,['Playlist'],4
+2355,"['To', 'The', 'Moon']",1
+2356,"['Ma', 'vie']",1
+2357,"['Frühstück', 'Paris']",11
+2358,"['gar', 'Bock']",1
+2359,['Sirene'],4
+2360,"['Lebst', 'noch']",1
+2361,"['Morning', 'Sun']",1
+2362,"['Chrome', 'Hearts']",1
+2363,"['Fuckst', 'nur']",7
+2364,['Bad'],1
+2365,['Beifahrersitz'],1
+2366,"['Al', 'Qu', 'Damm']",1
+2367,['Gigi'],1
+2368,"['hinsetzen', 'anschnallen']",1
+2369,"['Berlin', 'leben', 'immer', 'noch']",1
+2370,"['zehnt', 'Etage']",1
+2371,['Hobby'],4
+2372,"['Papa', 'Hollywood']",1
+2373,['Dicka'],2
+2374,['Parkbank'],1
+2375,"['einsam', 'Spitze']",3
+2376,"['True', 'Romance']",2
+2377,"['fast', 'Life', '']",2
+2378,['Okay'],15
+2379,['wow'],1
+2380,['Checka'],8
+2381,"['niemals', 'Tausend']",4
+2382,['Elbe'],9
+2383,"['Rohdiamant', '', '', '', '']",5
+2384,['Zweifel'],2
+2385,"['White', 'Nights']",1
+2386,['Mailbox'],5
+2387,['Geb'],15
+2388,['TBC'],1
+2389,['Rede'],1
+2390,['Hennessy'],1
+2391,['Iron'],1
+2392,['Monet'],6
+2393,['anklagen'],12
+2394,['Rockstar'],2
+2395,"['Achtung', 'Bielefeld']",1
+2396,"['Million', 'Dollar']",1
+2397,"['Coco', 'Chanel']",1
+2398,['Jetski'],2
+2399,['Amcaogle'],2
+2400,"['sieben', 'Jahr']",1
+2401,"['Tut', 'leid']",4
+2402,['Kollektiv'],3
+2403,"['Schöner', 'Tag']",1
+2404,['Habibi'],4
+2405,"['Onkelz', 'Poster']",2
+2406,"['Battlefield', 'Freestyle']",1
+2407,"['Sorry', 'Not', 'Sorry']",1
+2408,"['mehr', 'fühlen']",1
+2409,['Geisterstadt'],1
+2410,['Kennst'],2
+2411,"['Boden', 'bleiben']",1
+2412,['Verlierer'],13
+2413,['down'],3
+2414,"['gestern', 'nix', 'heute', 'Star']",1
+2415,"['', 'Final', 'Kill']",1
+2416,['Gangster'],1
+2417,"['Tag', 'Sonntag']",1
+2418,['Trance'],1
+2419,"['bitte', 'geh']",2
+2420,['Hyäne'],1
+2421,"['Ka', 'je']",1
+2422,['Shawty'],6
+2423,['Kaktus'],1
+2424,"['Centre', 'Court']",2
+2425,"['Blutige', 'Träne', 'Rockstar']",1
+2426,"['Istanbul', 'Freestyle']",1
+2427,"['jung', 'Ceos']",1
+2428,['Highway'],6
+2429,['Lonely'],7
+2430,['mal'],1
+2431,"['Suicide', 'Door']",2
+2432,['Fahrrad'],2
+2433,['Spotlight'],1
+2434,"['Birkin', 'Bag']",1
+2435,['recht'],1
+2436,['Fantasie'],1
+2437,"['Rap', 'Hass']",1
+2438,"['Vija', 'vijan']",2
+2439,"['bringen', 'Mart']",8
+2440,['Goldjunge'],1
+2441,['Hell'],3
+2442,['Rapkiller'],3
+2443,['Hugs'],3
+2444,['subwoofer'],1
+2445,['Friendzone'],1
+2446,['dope'],1
+2447,['NBA'],1
+2448,"['Coke', 'Light']",2
+2449,['Brachland'],1
+2450,"['gib', 'Schiff']",1
+2451,"['Straße', 'leben']",1
+2452,['comprendo'],4
+2453,['wings'],2
+2454,"['wieder', 'Block']",1
+2455,['Madonna'],25
+2456,['SMS'],3
+2457,"['Bad', 'Eyez']",10
+2458,['adé'],1
+2459,['Ordentlich'],7
+2460,"['VIP', 'Psychiatrie']",1
+2461,"['können', 'ficken']",2
+2462,['SYGL'],2
+2463,['Peppermint'],8
+2464,"['Squad', 'Showtim']",1
+2465,['Doublecup'],3
+2466,['Geschäft'],1
+2467,"['Auge', 'überall']",1
+2468,['fluch'],1
+2469,"['offen', 'Geschlosse']",1
+2470,"['wieder', 'ok']",1
+2471,['Pain'],1
+2472,"['Low', 'Life']",3
+2473,['frisch'],8
+2474,['Wein'],2
+2475,"['Kuck', 'Kuck']",1
+2476,['Frag'],13
+2477,"['Kunstfreiheit', 'decken']",4
+2478,['Verpennt'],3
+2479,['Over'],1
+2480,['Overdose'],3
+2481,['Gift'],1
+2482,['Turtlez'],1
+2483,"['drei', 'Uhr', 'nachts']",22
+2484,"['Big', 'Bad', 'Wolf']",1
+2485,['Bobby'],1
+2486,"['Kids', 'From', 'The', 'Block']",7
+2487,"['leer', 'Hand']",9
+2488,['Zart'],7
+2489,"['Asphalt', 'tennissocken']",1
+2490,['Badmómz'],1
+2491,['Radar'],1
+2492,['Verdacht'],2
+2493,['Hör'],1
+2494,"['Lieg', 'wieder', 'wach']",17
+2495,['Angekommen'],1
+2496,['Leuchtreklame'],1
+2497,"['Alice', 'Sarah']",1
+2498,['Manchester'],1
+2499,"['San', 'Andreas']",2
+2500,['ficken'],1
+2501,['Blessed'],9
+2502,"['', 'Kanake']",1
+2503,"['Pinky', 'Ring']",1
+2504,['Schizophr'],1
+2505,['heimkommen'],2
+2506,['Extasy'],11
+2507,['Pussyboy'],1
+2508,"['Spiel', 'Spiel']",1
+2509,['dürfen'],17
+2510,"['Schicksal', 'treffen']",2
+2511,['Fehler'],2
+2512,"['une', 'jam']",1
+2513,"['egal', 'hoch']",1
+2514,"['Training', 'Day']",1
+2515,['durstlöscher'],14
+2516,"['schlecht', 'Tag']",1
+2517,['Tu'],3
+2518,['Lila'],1
+2519,['Thano'],1
+2520,"['favourit', 'Artist']",1
+2521,"['Dis', 'Is', 'Fastlife']",1
+2522,['Rosenkrieg'],4
+2523,"['hassen', 'Kind']",1
+2524,['Ghettogirl'],8
+2525,['Bounce'],1
+2526,['WEEE'],1
+2527,"['Happy', 'Birthday']",1
+2528,['Drilla'],2
+2529,['Clubhouse'],1
+2530,"['Drink', 'kalt']",4
+2531,['FAFB'],1
+2532,['Rotlichtsonat'],2
+2533,"['King', 'Kong']",9
+2534,['Vergib'],1
+2535,['Insomnia'],1
+2536,['Schmetterling'],9
+2537,"['Popsmoke', 'Dance']",1
+2538,['Herzalarm'],1
+2539,"['Oh', 'Digga']",1
+2540,['Sommergewitter'],25
+2541,['mahalle'],1
+2542,['wein'],3
+2543,"['Daniel', 'Lee']",2
+2544,['schwarz'],8
+2545,['Promise'],1
+2546,['Kampfsport'],1
+2547,"['King', 'Sonny', 'Black']",1
+2548,['Flyy'],1
+2549,"['zwei', 'kenn']",1
+2550,['Zukunft'],5
+2551,['Crashen'],11
+2552,['Mbappé'],1
+2553,"['Nummer', 'eins']",1
+2554,"['Vamos', 'mart']",6
+2555,['Arm'],1
+2556,"['rot', 'Auge', '']",1
+2557,"['Showtim', 'Fourever']",1
+2558,"['Blaues', 'Licht']",34
+2559,['Checkst'],1
+2560,"['Pink', 'Panther', '']",1
+2561,"['nur', 'Bitte']",4
+2562,"['Cloud', '']",3
+2563,['Mandarin'],3
+2564,"['', 'Grad']",11
+2565,"['Filet', 'Mignon']",1
+2566,['Flip'],1
+2567,"['Heb', '']",1
+2568,"['Money', 'II']",1
+2569,['Venus'],2
+2570,"['Schatten', 'Feigenbaum']",2
+2571,['Savag'],1
+2572,"['noch', 'einmal']",1
+2573,['lässt'],9
+2574,['Zuhälteraura'],1
+2575,['Noise'],1
+2576,['fair'],3
+2577,"['belgische', 'Viertel']",16
+2578,"['Money', 'Movez']",1
+2579,"['', 'Kapitel']",3
+2580,['Nebenjob'],1
+2581,"['Roid', 'Rage']",1
+2582,"['schön', 'tun', 'weh']",1
+2583,"['Stern', 'Dach']",3
+2584,"['', 'Km']",1
+2585,['Parfum'],1
+2586,"['gut', 'Geschäft']",2
+2587,['Duft'],1
+2588,['Apple'],1
+2589,"['Pussy', 'Power']",1
+2590,['Pille'],2
+2591,"['null', '']",3
+2592,"['Baby', '', '']",3
+2593,"['immer', 'regnen']",2
+2594,"['Para', 'Drill']",1
+2595,"['Moje', 'sve']",4
+2596,"['Kapitel', 'II', 'Vodka', '']",5
+2597,['Mond'],4
+2598,"['Intro', 'Magic']",1
+2599,['Lüg'],1
+2600,['Pause'],1
+2601,['Guapa'],4
+2602,"['Happy', 'End']",3
+2603,['Raffaelo'],1
+2604,['Späti'],18
+2605,"['per', 'ty']",3
+2606,"['Grauer', 'Schnee']",1
+2607,"['Gib', 'Flex']",1
+2608,['blueprinen'],1
+2609,"['Dollar', 'Isyan']",1
+2610,['FYM'],1
+2611,"['nur', 'Prinzip']",1
+2612,['Trapstar'],1
+2613,"['Paris', 'Freestyle']",17
+2614,"['Be', 'Hoe', 'Break', 'Hoe']",4
+2615,['Song'],3
+2616,"['Bleib', 'Nacht']",4
+2617,"['Küs', 'Gift']",3
+2618,"['Canada', 'Goose']",1
+2619,['IDWK'],1
+2620,"['Kapitel', 'III', 'Thunfisch', 'Weinbrand', '']",1
+2621,['leben'],2
+2622,['Lautlos'],2
+2623,"['letzter', 'Song', 'gut']",19
+2624,['Hahaha'],1
+2625,['Jahr'],3
+2626,"['Ghetto', 'Gemälde']",1
+2627,['Giftgrünes'],1
+2628,['NDA'],1
+2629,['Violett'],1
+2630,"['Bitte', 'Spitte']",1
+2631,"['Kapitel', 'IV', 'Sport', '']",3
+2632,"['double', 'Cup']",1
+2633,['Schockstarre'],1
+2634,"['Teufel', 'weinen']",1
+2635,"['Unten', 'kommen', 'Gurk', 'rein']",1
+2636,['Draufgängerjung'],1
+2637,"['ke', 'harru']",1
+2638,['genau'],1
+2639,['Jung'],1
+2640,['Blunt'],2
+2641,"['Rubinroter', 'Wein']",4
+2642,"['allein', 'allein']",5
+2643,['Pourquoi'],2
+2644,"['Loyalty', 'Over']",1
+2645,['Narbe'],1
+2646,['Bossmode'],1
+2647,['nachbeben'],1
+2648,['Andal'],1
+2649,['molly'],3
+2650,['black'],3
+2651,['Mogli'],3
+2652,"['blau', 'Himmel']",1
+2653,['Strassengeschichten'],1
+2654,['Nebel'],1
+2655,"['Itachi', 'Flow']",1
+2656,['Quit'],2
+2657,"['Triple', 'Threat']",1
+2658,['UDSSR'],1
+2659,['Onlyfan'],5
+2660,['Fabian'],1
+2661,['Tageslicht'],2
+2662,"['Social', 'Media']",1
+2663,"['Baby', 'OG']",1
+2664,['rauch'],1
+2665,"['nie', 'verstehen']",2
+2666,['MVP'],1
+2667,['Feind'],1
+2668,"['vieler', 'Lied', 'muss', 'noch', 'schreiben']",7
+2669,"['', 'Allstar', '']",3
+2670,['Offday'],1
+2671,"['Tag', 'Team']",1
+2672,"['Don', 'Wanna', 'Party', 'No', 'More']",1
+2673,"['nur', 'Song', 'Need', 'Some', 'Sleep']",1
+2674,"['Scheiss', 'Ossi']",1
+2675,"['Scheiss', 'Wessi']",1
+2676,"['anders', 'weniger', 'Arsch']",1
+2677,['Rapstars'],3
+2678,"['Gott', 'Zeuge']",1
+2679,"['Sweet', 'Dream']",2
+2680,"['You', 'Know']",1
+2681,['Schmetterlinge'],3
+2682,"['Wazabi', 'Gang']",1
+2683,['Majestic'],2
+2684,"['Dicht', 'Flieger']",22
+2685,"['Gehen', 'bleiben']",1
+2686,"['lass', 'los']",2
+2687,['Inzidance'],1
+2688,"['Song', 'reichen']",1
+2689,"['Bling', 'Bling']",1
+2690,['Jumper'],1
+2691,['Baradar'],1
+2692,['Riesenjoint'],1
+2693,"['Zick', 'zack']",5
+2694,['Crobot'],1
+2695,['GMO'],1
+2696,"['Champion', 'Club']",1
+2697,['Teufel'],1
+2698,"['You', 're', 'My', 'Heart', 'You', 're', 'My', 'Soul']",1
+2699,['Mukke'],1
+2700,"['lieben', 'Techno']",7
+2701,['Powerade'],22
+2702,['Planet'],1
+2703,['Druff'],1
+2704,"['We', 'It']",21
+2705,"['Bob', 'Marley']",2
+2706,"['dick', 'Titt']",4
+2707,['Dilemma'],1
+2708,"['gib', 'Grund']",1
+2709,"['schön', 'Tag']",18
+2710,"['Beautiful', 'Girl']",21
+2711,['LV'],1
+2712,['Obsessed'],3
+2713,"['machen', 'Geld']",1
+2714,"['Shank', 'On', 'Me']",1
+2715,['Airbnb'],3
+2716,['Layla'],18
+2717,"['nie', 'mehr', 'zurück']",2
+2718,['Molotov'],1
+2719,['Prime'],1
+2720,['Himalaya'],1
+2721,"['Tmm', 'beschütz']",1
+2722,['Ausmacht'],11
+2723,['Ballade'],1
+2724,['COACHELLA'],8
+2725,['Ratchet'],1
+2726,['Beretta'],3
+2727,"['wieder', '']",1
+2728,"['Bisschen', 'high']",1
+2729,['Eismond'],1
+2730,"['Day', 'Night']",1
+2731,['Amin'],1
+2732,['KMN'],1
+2733,['Paradise'],13
+2734,"['Zug', 'Bremse']",5
+2735,['Sonntagabend'],1
+2736,"['On', 'Fire']",1
+2737,"['Hot', 'Summer']",2
+2738,['Follow'],11
+2739,"['Fahr', '']",1
+2740,"['Kleiner', 'Prinz']",7
+2741,"['nachts', 'wach']",11
+2742,"['fick', 'Insta']",1
+2743,['eigentlich'],3
+2744,"['Ups', 'Downs']",7
+2745,['Olivia'],9
+2746,"['Commitment', 'Issues']",5
+2747,"['LETZTES', 'MAL']",9
+2748,['Karussell'],2
+2749,"['Mi', 'Amor']",1
+2750,['Heaven'],3
+2751,"['Ticket', 'Ketama']",5
+2752,"['Froz', 'Tear']",6
+2753,"['Adam', 'Eva']",1
+2754,"['Survival', 'Mode', 'Intro']",1
+2755,"['Wildberry', 'Lillet']",6
+2756,['Antwort'],1
+2757,['Lea'],3
+2758,"['Gott', 'Plan']",1
+2759,['Runnin'],1
+2760,"['Mami', 'Freestyle']",1
+2761,['Check'],1
+2762,['Kampfgeist'],1
+2763,['Taxi'],3
+2764,"['Präsi', 'Suite']",1
+2765,['Idee'],2
+2766,['Sternenstaub'],2
+2767,['Skandalös'],1
+2768,"['Starlight', 'Express']",1
+2769,"['', 'Tag', 'Meer']",1
+2770,['Baller'],1
+2771,['alleine'],1
+2772,"['Ohh', 'oh']",1
