@@ -9,5 +9,12 @@
       <jdbc-url>jdbc:oracle:thin:@ws35.nordakademie.intern:1521:orcl</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="text_analytics@92.205.167.58" uuid="9ab53a3e-108e-43ef-9994-cf0d39fb56e8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://92.205.167.58:8787/text_analytics</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
